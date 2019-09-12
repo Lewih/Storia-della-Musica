@@ -4,40 +4,47 @@ Libro: Carrozzo-Cimagalli
 
 # L'Opera dell'Ottocento
 
-Musica Strumentale in italia dell'ottocento è quasi completamente assente se non fosse per l'eccezione di Martucci e Sgambati, Paganini e Clementi.
+La Musica Strumentale in italia dell'ottocento è quasi completamente assente se non fosse per l'eccezione di Martucci e Sgambati, Paganini e Clementi.
+L'aria di sortita prende in questo periodo la denominazione di **Cavatina**, termine usato anche per indicare un'aria di rilievo dell'opera.
+L'aria mantiene generalmente una forma bipartita, poi adattata a seconda delle singole esigenze musicali.
 
 ## Gioachino Antonio Rossini(1792-1868)
 
 Inizialmente si dedica all'opera comica e a farse(opera buffa in un atto) spesso rappresentate a due a due presso Venezia.
-Nel 1813 si afferma a Venezia con la seria *Tancredi* e la buffa *L'Italiana in Algeri*.
+Nel 1813 si afferma a Venezia con l'opera seria *Tancredi*, rappresentata alla Fenice, e la buffa *L'Italiana in Algeri* commissionata anche grazie ad un periodo di crisi al Teatro San Benedetto che fu costretto a scommettere in tutta fretta su un giovane compositore per risanare le sue finanze.
 A Napoli si afferma con l'impresario Barbaja del teatro San Carlo lavorando ad opere buffe.
 Dal 1817 dopo *La Cenerentola* si dedica ad opere serie.
 Il periodo parigino(1825-1829) ha il suo culmine con il *Guglielmo Tell* che dà il via al Gran Operà.
+
+All'età di 37 interrompe la sua carriera.
 
 ### Gran Operà
 
  Si sviluppa sotto il regno di Luigi Filippo (1830-1848) e deriva dalla *Tragedie Lyrique* codificata da Lully che ha avuto un ruolo marginale fuori dalla Francia. Uno dei primi esempi di *Grand Operà* è *La muta di Portici(1828)* di Daniel-François Auber con un ruolo di rilievo affidato alla danza.
 Una delle opere più famose di questo genere è *Gli Ugonotti(1836)* di Meyerbeer che è esempio di vicenda privata(amore proibito) su sfondo storico(guerre di religione del '500).
 
-Caratteristiche:
+Caratteristiche :
 
 * Non centralità del testo, Il *Gran Operà* differisce dalla *Tragedie Lyrique* in quanto il libretto ha un ruolo marginale. 
-* Scenografia imponente e grandiosa
-* Mescolanza stilistica vocale
-* Cosmopolita, non relegata alla Francia 
-* La danza ricopre un ruolo cruciale
-* Il coro è un personaggio agente e attivo nella vicenda
-* Vicende individuali con sfondo storico collettivo (come Titanic 😅😂)
+* Scenografia imponente e grandiosa, la spettacolarità è insita nel genere.
+* Mescolanza stilistica vocale.
+* Cosmopolita, non relegata alla Francia.
+* La danza ricopre un ruolo cruciale.
+* Abolizione del recitativo secco in favore di quello accompagnato nell'opera seria.
+* Scrittura per esteso delle fioriture per sottrarle all'arbitrio dei cantanti.
+* Il coro è un personaggio agente e attivo nella vicenda.
+* Vicende individuali con sfondo storico collettivo (come Titanic 😅😂).
 
 L'opera Italiana sarà influenzata dal genere (vedi *Aida* di Verdi) oltre che da Rossini.
+Il genere fu accusato di vuoto eclettismo da parte dei compositori tedeschi.
 
 ### Strutture Formali
 
 La *<u>solita forma</u>* indica una struttura formale ideata da Rossini e può essere applicata a:
 
-1. Aria solistica 
-2. Duetto 
-3. Finale d'Atto
+1. Aria solistica.
+2. Duetto. 
+3. Finale d'Atto.
 
 Struttura della solita forma in ordine:
 
@@ -86,7 +93,7 @@ Non si dedica mai al genere buffo.
 
 La linea melodica di Bellini è molto lunga per durata.Essa è molto amata da Verdi e Wagner, il quale la trova imprevedibile. L'orchestra ha un ruolo marginale nei suoi lavori.
 
-Un numero è una struttura musicale che vede susseguirsi :
+Un **<u>numero</u>** è una struttura musicale che vede susseguirsi :
 
 * la scena(versi di endecasillabi e settenari) 
 * il tempo d'attacco(presente nel duetto, non presente nell'aria solistica)
@@ -165,10 +172,45 @@ Particolari i due duetti separati dalla riflessione di Rigoletto(assimilabile ad
 # Il Romanticismo
 
 Fondamentale è La guerra dei Romantici trattata nel sottocapitolo dedicato a Schumann e Wagner.
+Prosa musicale
+
+## Carl Maria Von Weber(1786-1826)
+
+Figlio d'arte, il padre era compositore e strumentista dell'orchestra di Mahanaim, fu compositore e virtuoso del pianoforte.
+Da primo grande musicista romantico si dedicò all'attivismo culturale su molteplici fronti: iniziò addirittura  un romanzo che non finirà mai, *Storia di Un Musicista*. Fu attivo anche come critico musicale, direttore artistico e direttore d'orchestra.
+Weber cercò in tutti i modi di arginare il dilagare dell'opera italiana.
+Cercò di valorizzare i fiati, in particolare il clarinetto con due concerti, e diede grande valore strutturale al timbro.
+Scrisse anche sonate per pianoforte e concerti per pianoforte e fagotto.
+
+E' considerato il padre dell'opera romantica tedesca, derivata dal Singspiel, genere lacrimevole e, in particolare per Weber, l'opera comique.
+Alcune sue opere sono:
+
+* Il Franco cacciatore(1821), recitativi parlati.
+* L'Euriante(1823), la *Grande opera romantica* in quanto i recitativi sono musicati come nel Singspiel, mancano le scene parlate. L'esperimento fallì a causa della pochezza e frammentarietà del libretto di Helmine Von Chezy.
+* Oberon(1826), in inglese con recitativi parlati, ritorna sulle sue orme verso la sua prima opera.
+
+Gli elementi spiccatamente tedeschi sono il tentativo di inglobare la natura nell'opera quasi come un personaggio, spesso evocato dalla musica, e i cori, anche se molto influenzati dai francesi.
+Scrisse anche un nutrito corpus di Lieder.
+Morì un anno prima di Beethoven.
+
+### Il Franco Cacciatore(1821)
+
+Denominata "opera romantica" fin dal frontespizio la cui prima fu rappresentata a Berlino.
+Formalmente siamo al cospetto di un Singspiel in 3 atti in lingua tedesca, ma le sue ascendenze sono molteplici.
+
+Il libretto è di un amico letterato di Weber, tale Kind, e si basa su una leggenda tedesca del seicento ambientata in un villaggio di cacciatori situato nella Foresta Nera con Max come protagonista. Max , cacciatore, è innamorato di Agate che viene messo in palio, come da usanza, al vincitore della gara di tiro. Max fa un patto col demonio che ha come messo Kaspar, già maledetto a sua volta, scatenando una sequela di eventi. L'amore puro di Agate sconfiggerà il male, similmente al *Olandese Volante* di Wagner.
+
+La scena della gola del lupo divisa in 7 parti ( il numero delle pallottole fuse da Kaspar) è basata sull'espediente del melodramme francese che è una scena creata tramite la collaborazione degli attori e dell'orchestra.
+
+E' presente anche un'aria di Agate in pieno stile italiano. Le arie accompagnate da strumenti a fiato sono tipicamente francesi.
+Elemento tipicamente tedesco sono i cori affidati ai cacciatori.
+
+Ha un'introduzione lenta, spiccatamente romantica nell'evocazione della natura, seguita dai gruppi tematici di Max e Agate e il motivo di Samiel(l'angelo caduto) caratterizzato dall'accordo di settima diminuita. I temi sono molto azzeccati, ma sempre coerenti con l'ambientazione bucolica.
 
 ## Franz Schubert(1797-1828)
 
-Non vide molta fama in vita.
+Non vide molta fama in vita che trascorse quasi per la sua interezza a Vienna, sua città natale, che durante la gioventù dall'artista era dominata dall'imperante immagine di Beethoven e dall'egemonia teatrale dei Barbaja.Solo negli ultimi anni di vita iniziò la sua ascesa che si interruppe un anno dopo la morte di Beethoven. 
+Fu definito "Il classico della musica romantica" che coniugò il classicismo con le nuove spinte romantiche.
 
 Per quanto riguarda la musica strumentale l'autore tende ad usare temi cantabili a volte tratti da Lieder quartetto *La morte e la fanciulla* e quintetto *La Trota*.
 Ci sono sonate per pianoforte (20) e quartetti (15) e quintetti e due trii e pezzi brevi.
@@ -177,53 +219,25 @@ Compose 5 singspiel e un'opera.
 ### Lieder
 
 Un Lieder può essere strofico o durchkomponiert. Ne compose 604 quasi tutti parzialmente strofici.
-Il lieder prima di Schubert aveva un accompagnamento molto semplice, strofico, con una linea vocale molto in rilievo rispetto all'accompagnamento. Esistevano due scuole berlinesi: la prima con evidente sottomissione dell'accompagnamento al canto; la seconda con melodie molto semplici e orecchiabili, di facile ascolto. Goethe è un autore molto amato per questo genere di composizione.
+Il lieder prima di Schubert aveva un accompagnamento molto semplice, strofico, con una linea vocale molto in rilievo rispetto alla parte pianistica. Esistevano due scuole berlinesi: la prima con evidente sottomissione dell'accompagnamento al canto; la seconda con melodie molto semplici e orecchiabili, di facile ascolto. Goethe è un autore molto amato per questo genere di composizione.
 
 Prima importanti autori sono Beethoven con il suo ciclo *All'amata Lontana* che ha la particolarità di presentare difficoltà di estrapolare i singoli Lieder. In questo periodo i Lieder sono prevalentemente strofici.
-Schubert ridà vita al Lieder, prima genere sempliciotto dall'accompagnamento pianistico semplice, che diviene ricercato e tecnicamente elaborato. I cicli liederistici di Schubert sono ***La Bella Mugnaia*** e  ***Viaggio d'Inverno*** su testi di Müller. Viene usata prevalentemente la forma parzialmente strofica dall'autore.
+Schubert ridà vita al Lieder, prima genere sempliciotto dall'accompagnamento pianistico semplice, che diviene ricercato e tecnicamente elaborato. I cicli liederistici di Schubert sono ***La Bella Mugnaia*** e  ***Viaggio d'Inverno*** su testi di Müller. Viene usata  dall'autore prevalentemente la forma parzialmente strofica.
 Testi di Goethe sono usati da Schubert, il primo pensava che il Lieder doveva essere strofico e poco appariscente su influenza di Zelter, maestro di Mendelssohn.
-***Il canto del cigno*** è una raccolta messa insieme dopo la morte dal suo editore pubblicata nel 1828.
+***Il canto del cigno*** è una raccolta messa insieme dopo la morte dal suo editore e pubblicata nel 1828.
 
-Il *Re degli elfi* è un Lied musicato anche da Reichardt: in quello di Schubert la parte pianistica è più sofisticata con ottave ribattute in terzina, mentre nel collega la musica non travolge la poesia; entrambi hanno struttura strofica. Schubert differenzia le voci in 4 parti sempre sullo stesso registro, ma con tratti stilistici diversi ( padre, figlio, re degli elfi, narratore). Il testo è di Goethe
+Il ***Re degli elfi*** è un Lied musicato anche da Reichardt: in quello di Schubert la parte pianistica è più sofisticata con ottave ribattute in terzina, mentre nel collega la musica non travolge la poesia; entrambi hanno struttura strofica. Schubert differenzia le voci in 4 parti sempre sullo stesso registro, ma con tratti stilistici diversi ( padre, figlio, re degli elfi, narratore). Il testo è di Goethe
 
 ### 9° Sinfonia
 
 Sottotitolata *La Grande*, non fu suonata in vita. Fu riscoperta da Schumann.
-La contrapposizione tonale non è così forte: nella 9° sinfonia si passa dall'esposizione del tema in tonica alla tonalità non di dominante come ci si aspetterebbe, ma a quella di mediante procedendo per terze. Quando successivamente si passerà alla tonalità di dominante la modulazione sarà avvertita come scarica ( mi minore e sol maggiore ad esempio). Il terzo tema dei tromboni è singolare. 
+La contrapposizione tonale non è così forte: nella forma sonata del primo movimento della 9° sinfonia si passa dall'esposizione del tema in tonica alla tonalità non di dominante come ci si aspetterebbe, ma a quella di mediante procedendo per terze. Quando successivamente si passerà alla tonalità di dominante la modulazione sarà avvertita come scarica ( mi minore e sol maggiore ad esempio): infatti Schubert era solito bilanciare l'esposizione su tre tonalità, esse sono accostate più che subordinate l'una all'altra.
+Schubert fa propria la nozione coloristica dell'armonia tipica del romanticismo dove l'attrazione che una tonalità principale esercita sulle altre non è più un fattore vincolante o cardine della composizione.
+Il terzo tema dei tromboni è singolare. 
 Sono Presenti modulazioni che non hanno scopo funzionale, le quali portano da dominante a dominante.
 
 L'autore ha la tendenza ad utilizzare temi cantabili simili a quelli dei Lieder e alla ripetizione forse più che allo sviluppo.
 Uno dei primi casi di composizione ciclica, forse ideata da Beethoven?, è la W. Fantasie per pianoforte, il materiale del primo movimento ritorna nei successivi.
-
-## Carl Maria Von Weber(1786-1826)
-
-Figlio d'arte, il padre era compositore e strumentista dell'orchestra di Mahanaim, fu compositore e virtuoso del pianoforte.
-Iniziò a scrivere un romanzo che non finirà mai, *Storia di Un Musicista*. Fu attivo anche come critico musicale e direttore d'orchestra.
-Weber cercò in tutti i modi di arginare il dilagare dell'opera italiana.
-Cercò di valorizzare i fiati, in particolare il clarinetto con due concerti, e diede grande valore strutturale al timbro.
-Scrisse anche sonate per pianoforte e concerti per pianoforte e fagotto.
-
-E' considerato il padre dell'opera romantica tedesca, derivata dal Singspiel, genere lacrimevole e, in particolare per Weber, l'opera comique.
-Alcune sue opere sono:
-
-+ Il Franco cacciatore(1821), recitativi parlati.
-+ L'Euriante(1823), la *Grande opera romantica* in quanto i recitativi sono musicati come nel Singspeil.
-+ Oberon(1826), in inglese con recitativi parlati.
-
-Gli elementi spiccatamente tedeschi sono il tentativo di inglobare la natura nell'opera quasi come un personaggio, spesso evocato dalla musica, e i cori, anche se molto influenzati dai francesi.
-Scrisse anche un nutrito corpus di Lieder.
-
-### Il Franco Cacciatore
-
-Il libretto è di un amico letterato di Weber, tale Kind, e si basa su una leggenda tedesca del seicento ambientata in un villaggio di cacciatori situato nella Foresta Nera con Max come protagonista. Max , cacciatore, è innamorato di Agate che viene messo in palio, come da usanza, al vincitore della gara di tiro. Max fa un patto col demonio che ha come messo Kaspar, già maledetto a sua volta, scatenando una sequela di eventi. L'amore puro di Agate sconfiggerà il male, similmente al *Olandese Volante* di Wagner.
-
-La scena della gola del lupo divisa in 7 parti ( il numero delle pallottole fuse da Kaspar) è basata sull'espediente del melodramme francese che è una scena creata tramite la collaborazione degli attori e dell'orchestra.
-
-E' presente anche un'aria di Agate in pieno stile italiano.
-
-Elemento tipicamente tedesco sono i cori affidati ai cacciatori.
-
-Ha un'introduzione lenta, spiccatamente romantica nell'evocazione della natura, seguita dai gruppi tematici di Max e Agate e il motivo di Samiel(l'angelo caduto) caratterizzato dall'accordo di settima diminuita. I temi sono molto azzeccati, ma sempre coerenti con l'ambientazione bucolica.
 
 ## Hector Berlioz(1803-1859)
 
@@ -251,7 +265,9 @@ Le opere sono sempre state poco rappresentate.
 
 ## Felix Mendelssohn(1809-1847)
 
-Nasce a Berlino da una famiglia di ottima tradizione intellettuale. Il padre era banchiere e aveva contatti personali con Hegel, mentre il nonno con Kant. Il giovane studiò estetica con Hegel e ebbe un'ottima preparazione musicale. Schumann lo definì il Mozart dell'ottocento per via del grande equilibrio della sua musica.
+Cresce a Berlino; di una famiglia di ottima tradizione intellettuale. Il padre era banchiere e aveva contatti personali con Hegel, mentre il nonno con Kant. Il giovane studiò estetica con Hegel e ebbe un'ottima preparazione musicale e strumentale. Schumann lo definì il Mozart dell'ottocento per via del grande equilibrio della sua musica. Nel 1829 dirige il suo adattamento ammodernato de *Passione Secondo Matteo* di J.S.Bach, autore che insieme ai classici viennesi formava la spina dorsale della sua formazione musicale.
+La sua unica produzione letteraria è la traduzione dal latino dell'*Andria* di Terenzio che gli valse l'ammissione all'università di Berlino e poi pubblicata.
+
 Strana è l'assenza di saggi e critica musicale vista la sua elevata formazione culturale.
 Si dedica alla composizione di musiche di scena.
 
@@ -260,7 +276,7 @@ Sin dall'adolescenza si mette al lavoro con:
 * L'ottetto per archi
 * Ouverture per *Il sogno di una Notte di Mezza Estate*
 
-Fu direttore a Lipsia presso l'orchestra Gewandhaus, la più antica d'europa, e fu una dei fondatori del conservatorio di Lipsia ove insegnò.
+Fu direttore a Lipsia presso l'orchestra Gewandhaus, la più antica d'europa, e fu una dei fondatori del conservatorio di Lipsia(1843) ove insegnò.
 La sorella Fanny era anch'essa compositrice di talento pur ostacolata dal famiglia.
 Nel 1829 Felix diresse la prima rappresentazione dopo un secolo de *Passione Secondo Matteo* di J.S.Bach che riportò il compositore di Lipsia in auge dopo un lungo periodo di oblio.Nello stesso anno soggiornò a Londra e venne in contatto con la produzione di Handel, in particolare con gli oratori, genere trascurato in Europa continentale e che Felix ripropose con *Elias*, in doppia versione inglese, e tedesca e *Paulus*.
 
@@ -297,9 +313,11 @@ Nell'ottavo movimento è presente un corale bachiano che viene sviluppato come u
 
 ## Robert Schumann(1810- 1856)
 
-Si approccia completamente alla musica da giovane uomo dopo aver iniziato gli studi di giurisprudenza. Grande appassionato di letteratura si dedica alla critica fondando una rivista *Nuova rivista di musica*. All'inizio della carriera come critico musicale si imbatté con sua gioia in un giovane compositore polacco, Chopin, mentre alla fine della stessa in Brahms nell'articolo chiamato *vie nuove*.
-Eusebio, il sognatore, e Florestano, l'irruento, rappresentano i due aspetti della personalità dell'autore, mentre la Lega di Davide è l'elemento collettivo che identifica il suo modo di pensare e i Filistei la loro controparte negativa benpensante, ossia tutto ciò che era conformista e scialbo, che aveva una concezione ludica della musica o che la faceva scadere in mero tecnicismo e virtuosismo.. Questi personaggi sono presenti nei lavori letterari e musicali che trovano mediazione tramite la figura del Maestro Raro. Le sue recensioni divengono dei dialoghi dove i vari personaggi si confrontano dando sfoggio delle loro ben caratterizzante personalità.
-Si dedica a vari generi musicali in periodi ben definiti della sua vita. I primi 10 anni, dal 1830 al 1840 quando sposa Clara Wieck, sono dedicati alla musica per pianoforte con particolare attenzione dedicata ai brani brevi. Sono presenti anche cicli pianistici avvicinabili ai cicli Liederistici di Schubert.
+Si approccia completamente alla musica da giovane uomo dopo aver iniziato gli studi di giurisprudenza.A causa di una progressiva paralisi alla mano destra la sua attività pianistica fu segnata irrimediabilmente. Grande appassionato di letteratura si dedica alla critica fondando una rivista ***Nuova rivista di musica***. All'inizio della carriera come critico musicale si imbatté con sua gioia in un giovane compositore polacco, Chopin, mentre alla fine della stessa in Brahms nell'articolo chiamato *vie nuove*.
+Eusebio, il sognatore, e Florestano, l'irruento, rappresentano i due aspetti della personalità dell'autore, mentre la Lega di Davide è l'elemento collettivo che identifica il suo modo di pensare e i Filistei la loro controparte negativa benpensante, ossia tutto ciò che era conformista e scialbo, che aveva una concezione ludica della musica o che la faceva scadere in mero tecnicismo e virtuosismo, una lega artistica immaginaria che accomunava gli artisti che assecondavano l'avvenire di una nuova età poetica. Questi personaggi sono presenti nei lavori letterari e musicali che trovano mediazione tramite la figura del Maestro Raro, un personaggio che è il condensato di tutte le sfaccettature delle diverse energie romantiche, inizialmente soprannome di Wieck, il maestro di Schumann. Le sue recensioni divengono dei dialoghi dove i vari personaggi si confrontano dando sfoggio delle loro ben caratterizzante personalità.
+Si dedica a vari generi musicali in periodi ben definiti della sua vita. I primi 10 anni, dal 1830 al 1840 quando sposa Clara Wieck, sono dedicati alla musica per pianoforte con particolare attenzione dedicata ai brani brevi(Op.101 Album per la Gioventù). Sono presenti anche cicli pianistici avvicinabili ai cicli Liederistici di Schubert.
+Geniale e squilibrato, visse i suoi ultimi giorni in clinica psichiatrica.
+Si costrinse maniacalmente a studiare un genere per volta, tanto che la sua produzione risulta cronologicamente compartimentata per generi.
 
 Kreisler è un personaggio fantastico dell'eclettico Hoffman a cui è dedicata la Kreisleriana per pianoforte.
 Sono presenti anche 3 sonate e la fantasia opera 17 per pianoforte.
@@ -311,14 +329,6 @@ Produzione:
 * 1842 si dedica alla musica da camera: tre quartetti, un quartetto e un quintetto con pianoforte, strumento sempre in risalto.
 * 1843 si dedica all'oratorio *Paradiso e la Peri*.
 * 1850 scrive la IV Sinfonia detta *Renana*. Il modello è la V di Beethoven con l'idea di conservare i traguardi del compositore di Bonn e al contempo di superarlo. C'è una forte unitarietà di materiale tematico che ritorna in tutti i movimenti variato dal punto di vista ritmico e timbrico come ad esempio il famoso tema di Clara (do-si-la-sol#-la) e sue trasposizioni.
-
-Mendelsohn è difeso a spada tratta dall'autore.
-
-*Genoveva* è l'unica opera di nullo successo.
-
-La seconda fioritura della sinfonia si ha nell'ultimo ventennio dell'ottocento 
-
-Listz scrive 13 poemi sinfonici. Wagner vs Listz scontro sul concetto di musica.
 
 ### Guerra dei Romantici
 
@@ -332,7 +342,7 @@ Una posizione simile a quella wagneriana è quella di Liszt che teorizzò la pos
 
 In opposizione troviamo Schumann, Hanslick e Brahms che si contrappongo alla così detta scuola neotedesca.
 **Hanslick** fu un docente di musicologia presso l'università di Vienna, un letterato, nel suo scritto *Il Bello Musicale* afferma che ogni arte ha la sua estetica e non deve essere confusa con quelle delle altre arti: egli vede la musica come una costruzione prettamente architettonica e tecnica; l'interesse non sta nell'effetto, ma nell'uso della tecnica compositiva.
-Egli non sopporta la logica di subordinare il materiale musicale alla logica di qualcosa di  esterno. 
+Egli non sopporta la logica di subordinare il materiale musicale alla logica di qualcosa di  esterno come ad esempio un programma: Schumann era infastidì perfino i titoli Beethoveniani di *Eroica* e *Pastorale*. 
 Hanslick sarà poi fondamento per la corrente *costruttivista* dell'estetica musicale del novecento sostenuta da Stravinsky e contrastata da Schönberg.
 
 ##Friederich Chopin(1810-1849)
