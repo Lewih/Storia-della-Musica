@@ -31,7 +31,7 @@ Ogni modo aveva una scala:
 Ogni modo aveva un particolare *ethos* , termine assimilabile a stile, che dipendeva sia dal modo come struttura musicale, sia nel modo di suonare sia nelle preferenze strumentali.
 L'ethos è profondamente legato al concetto di Apollineo e Dionisiaco.
 
-###Filosofi Greci e la musica
+### Filosofi Greci e la musica
 
 * Aristotele nella Politica afferma che la musica è un ottimo bagaglio culturale per i pupilli, ma essa non deve scadere nel professionismo, assai poco remunerativo in una società schiavile.
 * Platone nell Repubblica afferma che cambiare la musica e sui modi è pericoloso e radicale. Nella musica si trova uno strumento demagogico potente, soprattutto nella società ateniese dove a teatro si viveva la politica della città.
@@ -46,7 +46,7 @@ Il teatro in Grecia svolgeva un ruolo sociale e politico. Le rappresentazioni er
 Il principale elemento musicale era il coro che interveniva in vari punti della tragedia con vari ruoli.
 Tuttavia nei testi tragici a noi pervenuti non è presente notazione musicale, in quanto le revisioni Alessandrine effettuate sui testi voluti da Licurgo non le contengono.
 
-###Resti
+### Resti
 
 In totale restano 51 frammenti con notazione alfabetica. Da ricordare:
 
@@ -70,7 +70,7 @@ Allievo di Aristotele, è una testimonianza importante in quanto espone come uti
 
 # Liturgia Cristiana
 
-##Prima del Canto Gregoriano - La Monodia
+## Prima del Canto Gregoriano - La Monodia
 
 I salmi furono adottati integralmente dal cristianesimo. Anche la tradizione greca influenzò il paleo-cristianesimo musicale con gli Inni, composizioni poetiche in greco.
 
@@ -97,7 +97,7 @@ I canti dell'ordinario sono sempre uguali ogni giorno dell'anno, mentre quelli d
 
 Gli stile esecutivi erano responsoriale, antifonico, diretto.
 
-##Parti della Messa
+## Parti della Messa
 
 | Proprium   | Ordinarium |
 | ---------- | ---------- |
@@ -117,7 +117,7 @@ Gli stile esecutivi erano responsoriale, antifonico, diretto.
 Con l'unificazione di un vastissimo territorio sotto la corona di Carlo Magno, incoronato imperatore del sacro romano impero il Natale dell'800, si avvia una progressiva unificazione della tradizione liturgica in Europa fondendo la tradizione Vetero-Romana e quella Gallicana, processo che porterà alla nascita del *canto gregoriano*.Il nome deriva da Papa Gregorio I(vissuto 2 secoli prima), uomo protagonista della leggenda della colomba. Questo mito serviva a giustificare con una forza di ordine superiore lo sforzo a cui i cantori Gallicani si sottoponevano per imparare la liturgia Vetero-Romano.
 La lingua di elezione della liturgia è il latino e iniziamo ad avere attestazioni scritte.
 
-###Modi e Neumi
+### Modi e Neumi
 
 Inizia la cristallizzazione del canto. Il corpus musicale viene classificato in base ai modi.
 
@@ -146,7 +146,7 @@ Col concilio di Trento viene varata la così detta *Edizio medicea*, una version
 
 
 
-###Le prime forme di esecuzione Polifonica
+### Le prime forme di esecuzione Polifonica
 
 Nel nono secolo iniziano ad essere trasmesse per iscritto le prime tecniche esecutive polifoniche prestate da una consuetudine esecutiva di molto antecedente :
 
@@ -189,7 +189,7 @@ I modi ritmici sono 6 e sono etichettati con i nomi della metrica classica anche
 
 Il mottetto nasce aggiungendo testo sillabico alle clausole. I mottetti potevano essere espansi per numero di voci, potevano cambiare i modi ritmici ed espandere la musica. Le varie voci potevano avere testi differenti per ogni voce, addirittura in lingue diverse.
 
-####Il Conductus
+#### Il Conductus
 
 Nasce dal mottetto, ma qui il Tenor è di invenzione, il testo è unico per le varie voci ed è strofico ( ossia la musica che viene impiegata per la prima strofa ritorna in tutte le strofe successive) .
 
@@ -201,7 +201,7 @@ Petrus de Cruce e Francone di Colonia inventano un nuovo metodo di notazione rit
 
 Petrus de Cruce permette con la sua notazione di aggiungere gruppi irregolari.
 
-#Musica Medievale non Liturgica
+# Musica Medievale non Liturgica
 
 La grossa maggioranza è in lingua volgare, ma è presente anche in latino.
 
@@ -216,7 +216,7 @@ Grossa distinzione è la lingua volgare usata:
 * Lingua del sì 
 * Lingua pseudo-tedesca Minnesang
 
-##Clerici e diffusione
+## Clerici e diffusione
 
 I *clerici vagantes* erano studenti universitari che giravano per l'Europa per studiare. Questi erano legalmente tutelati grazie ad un editto di Federico Barbarossa come se fossero membri del clero: erano quindi giudicati da tribunali ecclesiastici con tutti i benefici.
 Questo movimento di masse portò alla nascita dei *Carmina Burana*.
@@ -283,7 +283,7 @@ Gli elementi di riferimento sono:
 * Tempo
 * Prolazione
 
-###In Italia
+### In Italia
 
 *Pomerium Musicae* di Marchetto da Padova è il trattato di riferimento.
 
@@ -297,7 +297,7 @@ I Generi dell'ars nova italiana sono:
 * la caccia,  3 voci con tenor strumentale e due voci in canone, un tipo di madrigale 
 * la ballata, uguale al virelain
 
-#Fiamminghi '400
+# Fiamminghi '400
 
 Le forme definite dai trobieri persistono in modo per le prime generazioni insieme al mottetto isoritmico
 
@@ -423,7 +423,7 @@ Monteverdi si giustifica evidenziando il rapporto musica-testo e definendo 2 *pr
 
 Armonia = composizione musicale ortodossa.
 
-###Nota sul libro Ottavo
+### Nota sul libro Ottavo
 
 Il libro ottavo è preceduto da una prefazione. Qui Monteverdi identifica 3 affetti principali negli stili *concitato, molle e temperato* e descrive la sua ricerca dello stile concitato, manifestazione dell'ira e delle passioni estreme,  mai espresso in modo soddisfacente precedentemente secondo il compositore. Monteverdi in ambito letterario afferma di aver preso spunto da Torquato Tasso, *La Gerusalemme Liberata* (battaglia di Tancredi e Clorinda).
 

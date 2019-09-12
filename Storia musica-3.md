@@ -62,7 +62,7 @@ Questa struttura è molto evidente nella *Semiramide*(1823). Ognuna parte di que
 
 Anche nell'opera opta per un finale concertato in tre movimenti (allegro, Largo di stupore, Stretta) e si assiste alla progressiva abolizione del recitativo secco in favore di quello accompagnato.
 
-##Gaetano Donizetti(1797-1848)
+## Gaetano Donizetti(1797-1848)
 
 Si possono identificare tre periodi creativi:
 
@@ -345,7 +345,7 @@ In opposizione troviamo Schumann, Hanslick e Brahms che si contrappongo alla cos
 Egli non sopporta la logica di subordinare il materiale musicale alla logica di qualcosa di  esterno come ad esempio un programma: Schumann era infastidì perfino i titoli Beethoveniani di *Eroica* e *Pastorale*. 
 Hanslick sarà poi fondamento per la corrente *costruttivista* dell'estetica musicale del novecento sostenuta da Stravinsky e contrastata da Schönberg.
 
-##Friederich Chopin(1810-1849)
+## Friederich Chopin(1810-1849)
 
 Chopin nasce in una famiglia ove il padre è docente di Liceo mentre la madre è dilettante di pianoforte, musicalmente egli è in larga parte autodidatta. Studia composizione al conservatorio di Varsavia. Il tentativo di diventare pianista virtuoso professionista fallisce e i suoi soggiorni a Vienna, dove scrive i due concerti per pianoforte e orchestra nel 1830, non gli portano successo.
 Dopo il fallimento dell'insurrezione di Varsavia decide di stabilirsi a Parigi nel 1831.
@@ -392,7 +392,7 @@ Liszt distingue tra:
 * Epopea antica: qui la musica non trova sua dimora in quanto, ad esempio nei poemi omerici, i fatti lasciano poco spazio alle passioni.
 * Epopea moderna: la musica può più facilmente farsi strada e descrivere il moto degli animi dei personaggi come nel *Faust*.
 
-###Composizioni
+### Composizioni
 
 Ci sono tre fasi compositive:
 
@@ -414,7 +414,7 @@ Scrive due sinfonie a programma:
 
   1. *Faust* 30 minuti
 
-  2. Gretchen* 22 minuti
+  2. *Gretchen* 22 minuti
   3. *Mephistopheles* 23 minuti con l'introduzione di un testo
 
 * *Dante*
@@ -457,7 +457,7 @@ Fondamentale è la *Tetralogia* chiamata *L'Anello del Nibelungo*  che narra mit
 3. *Sigfrido*
 4. *Crepuscolo degli Dei*
 
-###Cronologia
+### Cronologia
 
 * Studia da autodidatta dal 1828 al 1832
 * 1833-1838: lavora come direttore in teatri di provincia e scrive due opere *Le Fate* e *Il Divieto di Amare*.
@@ -581,7 +581,7 @@ Tutti per sostentarsi avevano lavori esterni al mondo musicale. Presentano un tr
 Contrapposti ai 5 c'erano gli occidentalisti come Tchaikovsky e Rubinstein. Il primo era contrario alla musica dilettantistica e favorevole alla formazione tradizionale.
 Nella musica russa è spesso preferita la musica a programma, l'elemento extra-musicale, e è assente la rielaborazione tematica.
 
-##Modest Mussorgsky(1839-1881)
+## Modest Mussorgsky(1839-1881)
 
 Era figlio di un proprietario terriero danneggiato dall'abolizione della servitù della gleba, cambiamento supportato dall'artista che si sente dalla parte dei contadini liberati.
 L'artista ero contrario all'occidentalizzazione ritenuta inutile per il futuro della nazione vista come ostaggio storico dell'Europa.
@@ -597,7 +597,7 @@ Il canto è quasi esclusivamente sillabico.
 
 Korsakov fa del lavoro di Modest rielaborazioni meno dure come d'altronde anche Ravel.
 
-#Opera di fine '800
+# Opera di fine '800
 
 ## In Italia
 

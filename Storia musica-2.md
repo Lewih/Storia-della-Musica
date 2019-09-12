@@ -70,14 +70,14 @@ L'aria *Il possente spirto* presenta per la parte vocale due pentagrammi, una co
 
 L'ambientazione pastorale col tempo viene abbandonata e subentrano le parti recitate.
 
-###L'evoluzione tra Roma e Venezia
+### L'evoluzione tra Roma e Venezia
 
  *Rappresentazione di Anima e Corpo* di De Cavalieri e potrebbe costituire uno dei punti di partenza per la nascita dell'oratorio, è la prima opera Romana. A Roma la produzione operistica fu molto importante grazie agli sforzi della famiglia Barberini e tali opere vengono dette Barberiniane. Nel 1644, con la morte del Papa di famiglia, tutti i Barberini dovettero abbandonare la città a causa dell'ascesa al trono papale dei Panphilij, loro rivali. Ciò segnò ildeclino delle opere barberiniane.
 
 * Cornacchioli: La Dama Schernita
 
 A Venezia nel 1637 apre al pubblico il teatro San Cassiano e vi si rappresenta *Andromeda* di Ferrari. Questa è la prima opera di stampo impresariale. A teatro si affittavano sedie e palchi, si comprava il libretto e ,quando non c'erano spettacoli, si giocava d'azzardo. Col tempo si crearono un ordine di palchi( Teatro all'Italiana).
- L'accademia degli Incogniti fu uno dei principali motori della produzione veneziana nella quale proliferano sia i temi mitologici, ma anche influenze belliche e temi eroici dovuti alla guerra contro i turchi che affliggeva la Serenissima dal 1645 dopo l'invasione dell'isola di Candia.
+L'accademia degli Incogniti fu uno dei principali motori della produzione veneziana nella quale proliferano sia i temi mitologici, ma anche influenze belliche e temi eroici dovuti alla guerra contro i turchi che affliggeva la Serenissima dal 1645 dopo l'invasione dell'isola di Candia.
 Con la guerra e la nascita di una lega cristiana per combattere i turchi, l'influenza della produzione Veneta si diffuse arrivando fino a Vienna con la festa teatrale *Il Pomo d'Oro* del '68, la quale presenta temi, slegati degli accadimenti bellici, tipici dell'opera di corte e una durata di due giorni.
 
 * Monteverdi: Il ritorno di Ulisse in Patria
@@ -113,7 +113,7 @@ La **sinfonia** poteva essere:
 * alla Francese: due sezioni, adagio + allegro solitamente, utilizzata anche nella *Tragedie lyrique* francese.
 * all'Italiana: tre sezioni, allegro+adagio+allegro.
 
-###Pietro Metastasio 
+### Pietro Metastasio 
 
 **Pietro Metastasio**, classe 1698,  è considerato uno dei più importanti librettisti che canonizzo i criteri dell'opera seria. Le arie metastasiane sono di due strofe con testi molto brevi che si spandono in musica.
 Caratteristiche Metastasiane:
@@ -150,7 +150,7 @@ Il **recitativo** poteva essere:
 
 Il **duetto** e in generale i pezzi d'assieme sono molto rari nelle opere settecentesche, se ci sono sono marginali.
 
-###Intermezzi ed Opera Buffa
+### Intermezzi ed Opera Buffa
 
 Negli ultimi decenni del seicento avviene una proliferazione dei teatri in tutta Italia con zone fiorenti intorno a Venezia, Roma e Napoli portando alla nascita di compagnie itineranti in tutta Europa.
 
@@ -193,7 +193,7 @@ Caratteristiche dei libretti goldoniani:
 Goldoni collaborò con Galuppi, musicista veneziano che mise in musica le sue opere.
 Libretti importanti di Goldoni: *Lo speziale, La Cecchina*.
 
-####Il Genere Lacrimevole
+#### Il Genere Lacrimevole
 
 Con la nascita delle opere buffe si sviluppano anche opere simili, ma di argomento più malinconico, definite anche *opere semiserie*. E' un repertorio semplice legato al quotidiano. Spesso in queste opere venivano usati strumenti che fungevano da alter ego o interlocutore del personaggio. Tra gli strumenti più prediletti c'era il flauto molto usato nelle arie della Nina ( <u>arie con strumento obbligato )</u>, lo strumento rappresenta i sentimenti dell'anima non descrivibili a parole.
 Opere: 
@@ -201,7 +201,7 @@ Opere:
 * *La Cecchina* di Goldoni
 * *La Nina* di Paesiello, continene le prime scene di pazzia.
 
-##La riforma di Gluck
+## La riforma di Gluck
 
 A Vienna verso la metà del '700 ad opera di **Christoph Gluck** e **Ranieri de' Calzabigi**. L'opera seria era infatti arrivata ad un punto morto ed era ormai stereotipata: I cantanti erano musicalmente prepotenti; i librettisti snaturano i libretti metastasiani(dai 27 libretti di Metastasio vengono partorite più di 800 opere); il pubblico cambia (la borghesia ascende). Nonostante le critiche l'opera seria resta fortemente presente in Italia e Germania.
 A Vienna erano presenti i personaggi giusti per il cambiamento:
@@ -230,7 +230,7 @@ Gluck partecipò anche alla riforma dell'opera francese quando fu a Parigi.
 
 Si parte dal seicento.
 
-###Tragédie Lyrique
+### Tragédie Lyrique
 
 L'opera Italiana ,che il cardinale Mazarino cercò di impiantare in Francia nella prima metà del seicento, non prese piede presso le corti francesi abituate al teatro parlato. Inoltre vi furono eventi come La Rivolta della Fronda e successivamente i musicisti Italiani furono addirittura espulsi dal paese. 
 
@@ -252,7 +252,7 @@ Elementi da tenere in considerazione:
 
 Il risultato della commistione di questi elementi fu la ***Tragédie Lyrique***, la cui prima manifestazione nel 1673 fu *Cadmus ed Hermione* su testo di **Quinault**. Le opere francesi di Lully come l'*Armide* si configurano quindi quasi come delle *Chanson de geste* del sovrano. Questo genere fu considerato per molto tempo lo stile francese per eccellenza.
 
-###L'opéra Comique
+### L'opéra Comique
 
 In Francia mancava una tradizione di opera buffa con i suoi paradigmi più liberi rispetto all'opera seria.
 
@@ -266,7 +266,7 @@ Differenze con l'opera buffa italiana:
 
 Il genere si svilupperà nei secoli seguenti fino al XX secolo e comprenderà produzioni quali la *Carmen* di Bizet.
 
-##Opera Tedesca: Il Singspiel
+## Opera Tedesca: Il Singspiel
 
 Come l'opera comique francese ha dialoghi parlati con presenza di battute improvvisate. Nasce come genere banale, ma verso la fine del settecento acquisirà spessore sociale e culturale.
 
@@ -373,9 +373,9 @@ Esistono tre modelli:
   Compositori importanti sono Vivaldi e Albinoni.
 * Concerto di gruppo: non c'è un insieme di strumenti dominante, il discorso viene protratto come una massa sonora unica.
 
-#Grandi Compositori Barocchi
+# Grandi Compositori Barocchi
 
-##Antonio Vivaldi
+## Antonio Vivaldi
 
 Musicista veneziano del settecento, classe 1678, soprannominato il *Prete Rosso* per via dei capelli rossi e perché aveva preso gli ordini minori senza portare avanti il sacerdozio a causa della salute cagionevole e a vari pettegolezzi: infatti insegnava nell'**Ospedale della pietà** alle "putte", le fanciulle, viola e violino. 
 
@@ -385,7 +385,7 @@ Compositore e impresario, gestiva il teatro Sant'Angelo di Venezia avendo così 
 
 Morì in disgrazia a Vienna. **Quantz** criticò il suo ultimo periodo artistico come statico e adagiato sul successo passato.
 
-###Riscoperta
+### Riscoperta
 
 Tutto il repertorio vivaldiano è una scoperta relativamente recente.
 Nel 1926 a San Martino di Monferrato 14 volumi furono messi in vendita dai salesiani, senza però sapere che essi contenevano partiture originali di Vivaldi nascoste durante le guerre napoleoniche. Un banchiere, resosi conto del loro valore, le acquistò e per poi donarle alla biblioteca di Torino. Qualche anno dopo una seconda parte della raccolta venne ritrovata.
@@ -553,7 +553,7 @@ In Italia studia:
 
 Le prime due opere teatrali sono: *Il Rodrigo* e *L'Agrippina*.
 
-###La Permanenza a Londra
+### La Permanenza a Londra
 
 Grazie alla successione al trono di Inghilterra, passata alla casata di Hannover, città in cui risedette per breve periodo, Handel ebbe l'occasione di trasferirsi a Londra.
 
@@ -569,7 +569,7 @@ In Sintesi le modifiche apportate allo stile italiano sono:
 Pur compiendo notevoli sforzi, la musica operistica italiana non prese piede in un paese inglese ed anglicano.
 Il colpo di grazia fu la composizione *The Beggar's Opera*, commedia musicata in inglese.
 
-###Gli Oratori
+### Gli Oratori
 
 A Roma scrive:
 
@@ -596,7 +596,7 @@ Cristo è raffigurato eroicamente e vittorioso come condottiero dell'esercito de
 
 Altri oratorio inglesi: *Hercules*, *Theodora*, *Israel in Egypt*.
 
-###Composizioni Celebrative
+### Composizioni Celebrative
 
 Composizioni su commissione importanti:
 
@@ -624,7 +624,7 @@ Gli stili e le forme si mischiano in modo eterogeneo, ma comunque è possibile i
 
 Entrambi gli stili comunque posso coesistere nello stesso compositore in quanto il primo è correlato allo status sociale del *Galant homme*, mentre il secondo è correlato all'estetica dell'interiore.
 
-###Caratteristiche, Generi e Forme
+### Caratteristiche, Generi e Forme
 
 Secondo il musicologo **Carl Dahlhaus** i territori a sud della bassa Germania, quindi di religione cattolica, passarono dallo stile galante allo stile classico(<u>strettamente legato a Vienna</u> che dopo il 1750 divenne una capitale musicale di prima importanza), approdando infine a quello romantico. In Germania del nord , di religione protestante, si passò quasi direttamente dallo stile empfindsamer al protoromanticismo. 
 
