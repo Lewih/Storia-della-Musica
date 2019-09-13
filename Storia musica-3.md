@@ -171,8 +171,7 @@ Particolari i due duetti separati dalla riflessione di Rigoletto(assimilabile ad
 
 # Il Romanticismo
 
-Fondamentale è La guerra dei Romantici trattata nel sottocapitolo dedicato a Schumann e Wagner.
-Prosa musicale
+Fondamentale è La guerra dei Romantici trattata nel sottocapitolo dedicato a Schumann e opere teoriche in Wagner.
 
 ## Carl Maria Von Weber(1786-1826)
 
@@ -239,30 +238,6 @@ Sono Presenti modulazioni che non hanno scopo funzionale, le quali portano da do
 L'autore ha la tendenza ad utilizzare temi cantabili simili a quelli dei Lieder e alla ripetizione forse più che allo sviluppo.
 Uno dei primi casi di composizione ciclica, forse ideata da Beethoven?, è la W. Fantasie per pianoforte, il materiale del primo movimento ritorna nei successivi.
 
-## Hector Berlioz(1803-1859)
-
-Siccome non è un grande musicista esecutore, scrive i suoi lavori orchestrali direttamente in partitura.
-4 overture e 4 sinfonie:
-
-* Sinfonia phantasique: il compositore presenta una guida all'ascolto da distribuire al pubblico, ogni movimento, sottotitolato, ha un soggetto che il compositore suggerisce esplicitamente anche con materiale scritto. Della guida sono presenti molteplici versioni, la più autorevole tra queste è la tredicesima. E' presente una sorta di seguito alla sinfonia detto *L'Elio o il Ritorno alla Vita* del 1832 che si presenta come un melologo.
-* Sinfonia Aroldo in italia con viola solista da Byron, sempre con titoli e riferimenti per ogni movimento.
-* Sinfonia Romeo e Giulietta con coro e solisti. Sussiste la parafrasi francese del testo di Shakespeare.
-* La grande sinfonia funebre e trionfale, simile ad un requiem in 3 movimenti, è una musica d'occasione inizialmente scritta per banda.
-
-Vince il Prix de Rome nel '30 e soggiorna in Italia rimanendo deluso dalla qualità delle orchestre italiane.
-Scrive nel 1843 un trattato di orchestrazione con appendice un trattato di direzione d'orchestra arte nata in quegli anni.
-<u>Fu uno dei primi a dirigere con la bacchetta.</u>
-
-Scrive 3 opere:
-
-* Le Troiane: ciclo di tre opere
-* Benvenuto Cellini
-* Beatrice e Benedict, opera comique
-
-Grande orchestratore che presta attenzione al timbro e alla collocazione degli strumenti e delle fonti sonore.
-E' colui che ha introdotto il teatro nella sinfonia con allusioni extra-musicali e titoli per ogni movimento.
-Le opere sono sempre state poco rappresentate.
-
 ## Felix Mendelssohn(1809-1847)
 
 Cresce a Berlino; di una famiglia di ottima tradizione intellettuale. Il padre era banchiere e aveva contatti personali con Hegel, mentre il nonno con Kant. Il giovane studiò estetica con Hegel e ebbe un'ottima preparazione musicale e strumentale. Schumann lo definì il Mozart dell'ottocento per via del grande equilibrio della sua musica. Nel 1829 dirige il suo adattamento ammodernato de *Passione Secondo Matteo* di J.S.Bach, autore che insieme ai classici viennesi formava la spina dorsale della sua formazione musicale.
@@ -316,10 +291,10 @@ Nell'ottavo movimento è presente un corale bachiano che viene sviluppato come u
 Si approccia completamente alla musica da giovane uomo dopo aver iniziato gli studi di giurisprudenza.A causa di una progressiva paralisi alla mano destra la sua attività pianistica fu segnata irrimediabilmente. Grande appassionato di letteratura si dedica alla critica fondando una rivista ***Nuova rivista di musica***. All'inizio della carriera come critico musicale si imbatté con sua gioia in un giovane compositore polacco, Chopin, mentre alla fine della stessa in Brahms nell'articolo chiamato *vie nuove*.
 Eusebio, il sognatore, e Florestano, l'irruento, rappresentano i due aspetti della personalità dell'autore, mentre la Lega di Davide è l'elemento collettivo che identifica il suo modo di pensare e i Filistei la loro controparte negativa benpensante, ossia tutto ciò che era conformista e scialbo, che aveva una concezione ludica della musica o che la faceva scadere in mero tecnicismo e virtuosismo, una lega artistica immaginaria che accomunava gli artisti che assecondavano l'avvenire di una nuova età poetica. Questi personaggi sono presenti nei lavori letterari e musicali che trovano mediazione tramite la figura del Maestro Raro, un personaggio che è il condensato di tutte le sfaccettature delle diverse energie romantiche, inizialmente soprannome di Wieck, il maestro di Schumann. Le sue recensioni divengono dei dialoghi dove i vari personaggi si confrontano dando sfoggio delle loro ben caratterizzante personalità.
 Si dedica a vari generi musicali in periodi ben definiti della sua vita. I primi 10 anni, dal 1830 al 1840 quando sposa Clara Wieck, sono dedicati alla musica per pianoforte con particolare attenzione dedicata ai brani brevi(Op.101 Album per la Gioventù). Sono presenti anche cicli pianistici avvicinabili ai cicli Liederistici di Schubert.
-Geniale e squilibrato, visse i suoi ultimi giorni in clinica psichiatrica.
+Geniale , contraddittorio e squilibrato, visse i suoi ultimi giorni in clinica psichiatrica.
 Si costrinse maniacalmente a studiare un genere per volta, tanto che la sua produzione risulta cronologicamente compartimentata per generi.
 
-Kreisler è un personaggio fantastico dell'eclettico Hoffman a cui è dedicata la Kreisleriana per pianoforte.
+Kreisler è un personaggio fantastico dell'eclettico Hoffman a cui è dedicata la Kreisleriana per pianoforte: questo rappresenta un tanto odiato elemento extra-musicale che evidenzia come la personalità dell'autore fosse vittimi di continue lotte intestine.
 Sono presenti anche 3 sonate e la fantasia opera 17 per pianoforte.
 
 Produzione:
@@ -347,22 +322,23 @@ Hanslick sarà poi fondamento per la corrente *costruttivista* dell'estetica mus
 
 ## Friederich Chopin(1810-1849)
 
-Chopin nasce in una famiglia ove il padre è docente di Liceo mentre la madre è dilettante di pianoforte, musicalmente egli è in larga parte autodidatta. Studia composizione al conservatorio di Varsavia. Il tentativo di diventare pianista virtuoso professionista fallisce e i suoi soggiorni a Vienna, dove scrive i due concerti per pianoforte e orchestra nel 1830, non gli portano successo.
-Dopo il fallimento dell'insurrezione di Varsavia decide di stabilirsi a Parigi nel 1831.
-Non ama i concerti pubblici, ma preferisce gli alti salotti ove dispensa anche lezioni private molto remunerative.
-Lipsia , Parigi, Londra sono le città dove le sue musiche sono pubblicate contemporaneamente con presenza di tanti errori di stesura e assenza dell'indicazione di pedale.
-Chopin è molto influenzato dalle sue due relazioni amorose, in particolare dall'ultima con George Sand, legame che sopravvive fino alla morte del musicista per tubercolosi.
+Chopin nacque in una famiglia polacca ove il padre era docente di Liceo mentre la madre era dilettante di pianoforte.
+Musicalmente egli fu in larga parte autodidatta. Studiò composizione al conservatorio di Varsavia. Il tentativo di diventare pianista virtuoso professionista fallì e i suoi soggiorni a Vienna, dove scrisse i due concerti per pianoforte e orchestra nel 1830, non gli portarono successo.
+Dopo il fallimento dell'insurrezione di Varsavia decise di stabilirsi a Parigi nel 1831, città che divenne la sua nuova patria giacchè vi rimase per il resto della sua vita.
+Non amava i concerti pubblici, ma preferiva gli alti salotti francesi ove dispensava anche lezioni private molto remunerative.
+Lipsia , Parigi, Londra sono le città dove le sue musiche furono pubblicate contemporaneamente con presenza di tanti errori di stesura e assenza dell'indicazione di pedale.
+Chopin fu molto influenzato dalle sue due relazioni amorose, in particolare dall'ultima con George Sand, legame che sopravvisse fino alla morte del musicista per tubercolosi.
 
-Chopin non ha influssi letterari nella sua musica. Egli stesso palesa il suo disaccordo circa la presenza di elementi extra-musicali.
+Chopin non ha influssi letterari nella sua musica né tantomeno si dedicò attivamente alla vita culturale della sua epoca. Egli stesso palesa il suo disaccordo circa la presenza di elementi extra-musicali.
 Schumann individua in Chopin un grande compositore e cerca di annoverarlo nel suo partito musicale.
 Gli altri vedono nella musica di Chopin elementi che egli stesso non è in grado di vedere o non ha intenzione di comunicare.
+All'autore sono estranee le grandi forme, prediligendo invece i pesi brevi, e il suo stile si presenta sì romantico, ma infuso di galanteria settecentesca, come se avesse saltato a piè pari il periodo che separa le due epoche.
 
-Nel caso di Schumann e Mendelssohn  hanno un percezione storica di Bach, invece Chopin lo idolatra in termini tastieristici. 
+Nel caso di Schumann e Mendelssohn  questi hanno un percezione storica di Bach, invece Chopin lo idolatra in termini tastieristici. 
 
 Chopin scrive una raccolta di Preludi che come gli studi sono stati recensiti da Schumann. I preludi sono sostanzialmente una raccolta di piccoli pezzi brevi che fanno pensare al clavicembalo ben temperato con una successione dei pezzi che procede per circolo delle quinte. Alcuni di questi pezzi sono di difficile inquadramento tonale.
 
 I Notturni sono stati inventati da **John Field**, musicista Irlandese. Struttura ABA con la sezione centrale appassionata/drammatica, la prima invece cantabile poi riproposta con abbellimenti che prende spunto dal canto italiano di Bellini.
-Nella sua produzione c'è una prevalenza di pezzi brevi.
 Il suo stile è caratterizzato dalla sintesi di melodie accompagnate e contrappunto, dalla presenza di tratti polacchi come rapidi crescendi e quinte vuote al basso, dalla commistione di generi.
 
 
@@ -370,20 +346,55 @@ Esistono tre filoni principali di composizioni:
 
 1. Salotto (Notturni, Walzer, mazurche, improvvisi)
 2. Didattiche (Studi op.10 e 25 e preludi), non soltanto pura tecnica.
-3. Eroiche (3 sonate non di stampo classico, ballate, scherzi, polacche, una fantasia, una barcarola)
+3. Eroiche (3 sonate non di stampo classico(aspramente criticate da Schumann Pag.113-Vol.3), ballate, scherzi, polacche, una fantasia, una barcarola)
 
 Scrive anche dei Lieder polacchi, un klaviertrio e un brano per pianoforte e violoncello, variazioni per flauto e piano.
 
+## Hector Berlioz(1803-1859)
+
+Si presenta come il massimo musicista romantico francese. Nato vicino a Lione, ebbe una formazione puramente letteraria e priva di una formazione musicale di livello. A 19 anni abbandona gli studi di medicina per dedicarsi alla musica. Lo caratterizzava un personalità egocentrica e incline alla mancanza di autocontrollo che non lo rendevano molto amato anche grazie alla sua attività di critico musicale assai severo.
+Siccome non fu un grande musicista esecutore, scrisse i suoi lavori orchestrali direttamente in partitura, pur dedicandosi alla direzione, arte a cui dedica un trattato: <u>fu uno dei primi a dirigere con la bacchetta.</u>
+Vinse il Prix de Rome nel '30 e soggiornò in Italia rimanendo deluso dalla qualità delle orchestre italiane.
+
+I suoi lavori comprendono 4 ouverture e 4 sinfonie:
+
+* ***Sinfonia Fantastique***: il compositore presenta una guida all'ascolto da distribuire al pubblico: ognuno dei 5 movimenti è sottotitolato e ha un soggetto che il compositore suggerisce esplicitamente anche con materiale scritto. Una specie di trama narrativa unifica il materiale musicale nel corso dell'esecuzione: l'irrefrenabile amore per una giovane e gli incubi di un uomo sotto l'effetto di stupefacenti(ultimi due movimenti).
+  Della guida sono presenti molteplici versioni, la più autorevole tra queste è la tredicesima. E' presente una sorta di seguito alla sinfonia detto *L'Elio o il Ritorno alla Vita* del 1832 che si presenta come un melologo e dona un lieto fine alla sinfonia.
+  L'autore riversa nella sinfonia i tormenti e le gioie delle sue vicissitudini amorose donandole uno stampo prettamente autobiografico, caratteristica ancora più evidente nel susseguente melologo.
+  Schumann fece una approfondita analisi della riduzione per pianoforte di Liszt della sinfonia che giudicò un capolavoro di "musica pura", pur rimproverando la presenza di un programma che condizionava alquanto l'immaginario dell'ascoltatore.
+  L'**Idea Fissa** è il tema musicale che ricorre in tutti i movimenti unificandoli: manca una netta dialettica tonale, dunque l'elemento propulsivo e costitutivo del processo formale è dato dalle trasformazioni del tema principale cui aderisce il programma in senso quasi "scenico".
+* Sinfonia *Aroldo in italia* con viola solista da Byron, sempre con titoli e riferimenti per ogni movimento.
+* Sinfonia *Romeo e Giulietta* con coro e solisti. Sussiste la parafrasi francese del testo di Shakespeare.
+* La grande sinfonia funebre e trionfale, simile ad un requiem in 3 movimenti, è una musica d'occasione inizialmente scritta per banda.
+
+Scrive 3 opere:
+
+* Le Troiane: ciclo di tre opere
+* Benvenuto Cellini
+* Beatrice e Benedict, opera comique
+
+*CURIOSITA':*
+Grande orchestratore che presta attenzione al timbro, alla dinamica e alla collocazione degli strumenti e delle fonti sonore: La sua *prosa musicale*, contrapposta alla scansione regolare della fraseologia tradizionale, sarà presa a piene mani da **Liszt** e dai musicisti futuri.
+E' colui che ha introdotto il teatro nella sinfonia con allusioni extra-musicali e titoli per ogni movimento.
+Le opere sono sempre state poco rappresentate.
+Con il termine idea fissa l'autore intende il tema musicale che ricorre in tutti i movimenti, unificandoli.
 
 ## Franz Liszt(1811-1886)
 
+Da considerarsi un compositore cosmopolita: la sua lingua era il tedesco pur essendo nato in Ungheria, alvo in età adulta eprimersi di preferenza in francese.
 A differenza di Chopin, Listz era un vero e proprio dominatore delle folle tanto che per antonomasia nasce il termine Lisztomania.
-Nel 1821 si trasferisce a Vienna ove studia pianoforte con Czerny.
-Cerca di trascendere i confini della scrittura pianistica tradizionale e diventare il Paganini del pianoforte.
-Scrisse un saggio di critica musicale sul *L'Aroldo in Italia* di Berlioz ove teorizza la possibilità di una musica a programma come il **poema sinfonico e la sinfonia a programma**: il primo è in un unico movimento in cui si concentra un'intera sinfonia in un minutaggio inferiore; la seconda è suddivisa in più movimenti e ha una durata tipica per il genere sinfonico.
-Liszt prende le difese di Berlioz, sostenendo che il programma serve ad evitare malintesi e a rendere più fruibile la musica anche ai non addetti ai lavori, opponendosi dunque alle idee di Schumann il quale era contrario al pilotare così rigidamente l'ascolto del pubblico, secondo Robert il titolo era una guida più che sufficiente per l'ascoltatore.
+Nel 1821 si trasferisce a Vienna ove studia pianoforte con Czerny e composizione con Salieri.
+Cerca di trascendere i confini della scrittura pianistica tradizionale e diventare il Paganini del pianoforte, strumento con cui ebbe una fiorente carriera concertistica internazionale sin dall'età di 12 anni.
+Scrisse un saggio di critica musicale sul *Aroldo in Italia* di Berlioz ove teorizza la possibilità di una musica a programma come il **poema sinfonico e la sinfonia a programma**: 
+
+* il primo, corredato di programma poetico, è in un unico movimento in cui se ne sovrappongo più di uno senza soluzione di continuità e si innesta sul genere dell'ouverture da concerto.
+  Non è facile definire formalmente il genere in quanto ha storicamente assunto strutture formali diverse e la stessa forma sonata ne esce profondamente diversa.
+  Tutto il materiale musicale è derivato da poche semplici strutture e idee, il che dal luogo ad una sorta di meditazione in musica fondata sulla trasformazione tematica.
+* la seconda è suddivisa in più movimenti e ha una durata tipica per il genere sinfonico.
+
+Liszt prende le difese di Berlioz, sostenendo che il programma serve ad evitare malintesi e a rendere più fruibile la musica anche ai non addetti ai lavori, opponendosi dunque alle idee di Schumann il quale era contrario al pilotare così rigidamente l'ascolto del pubblico: secondo Robert il titolo era una guida più che sufficiente per l'ascoltatore se non già eccessiva.
 Liszt mette in guardia circa un possibile uso superficiale del programma che invece deve essere attentamente studiato e non lasciato nelle mani degli editori.
-Liszt si pone dunque come musicista poetante che si pone nel filone dei Progressisti.
+Liszt si pone dunque come musicista poetante che si inserisce nel filone dei Progressisti.
 Nella seconda metà dell'ottocento il poema sinfonico si afferma soppiantando la sinfonia tradizionale: infatti dal 1851 (terza sinfonia di Schumann) bisogna attendere il 1876 ( prima sinfonia di Brahms ) per rincontrare sinfonie di autori noti che rappresentassero la musica assoluta non a programma con una nuova fioritura del genere come sottolineato dal musicologo **Dahlhaus**.
 Secondo **Hanslick** Liszt avrebbe dovuto dedicarsi al mero pianismo esecutivo in quanto le poche composizioni totalmente originali sono banali ed eccentriche: il contenuto extra-musicale viene in aiuto alla aridità creativa e alla mancanza di inventiva musicale.
 
@@ -411,12 +422,11 @@ Produzione pianistica:
 Scrive due sinfonie a programma:
 
 * *Faust* 
-
-  1. *Faust* 30 minuti
-
-  2. *Gretchen* 22 minuti
+1. *Faust* 30 minuti
+  
+2. *Gretchen* 22 minuti
   3. *Mephistopheles* 23 minuti con l'introduzione di un testo
-
+  
 * *Dante*
 
   1. *Inferno*
@@ -432,7 +442,8 @@ I poemi sinfonici sono 13 e hanno una durata compresa tra i 10 e i 20 minuti tra
 * *Die Ideale* da Schiller
 * *Hamlet* da Shakespeare 
 
-
+*CURIOSITA':*
+Era amico e genero di Wagner.
 
 ## Richard Wagner(1813-1883)
 
