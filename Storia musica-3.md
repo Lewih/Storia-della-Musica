@@ -46,7 +46,7 @@ La *<u>solita forma</u>* indica una struttura formale ideata da Rossini e può e
 2. Duetto. 
 3. Finale d'Atto.
 
-Struttura che forma un **<u>numero</u>**:
+Struttura che forma un **<u>numero</u>**, l'unità drammatica minima:
 
 * Scena: il vecchio recitativo, l'azione procede e si usano i versi sciolti. Stile di canto declamato.
 * Tempo d'attacco: <u>non presente nell'aria solistica</u>; prevede la contrapposizione tra due personaggi ; l'azione procede, ma si dà risalto all'aspetto musicale.
@@ -382,7 +382,7 @@ Con il termine idea fissa l'autore intende il tema musicale che ricorre in tutti
 
 ## Franz Liszt(1811-1886)
 
-Da considerarsi un compositore cosmopolita: la sua lingua era il tedesco pur essendo nato in Ungheria, alvo in età adulta eprimersi di preferenza in francese.
+Da considerarsi un compositore cosmopolita: la sua lingua era il tedesco pur essendo nato in Ungheria, salvo in età adulta esprimersi di preferenza in francese.
 A differenza di Chopin, Listz era un vero e proprio dominatore delle folle tanto che per antonomasia nasce il termine Lisztomania.
 Nel 1821 si trasferisce a Vienna ove studia pianoforte con Czerny e composizione con Salieri.
 Cerca di trascendere i confini della scrittura pianistica tradizionale e diventare il Paganini del pianoforte, strumento con cui ebbe una fiorente carriera concertistica internazionale sin dall'età di 12 anni.
@@ -444,30 +444,30 @@ I poemi sinfonici sono 13 e hanno una durata compresa tra i 10 e i 20 minuti tra
 * *Hamlet* da Shakespeare 
 
 *CURIOSITA':*
-Era amico e genero di Wagner.
+Era amico e genero di Wagner, uomo che aiutò durante le sue continue peripezie.
 
 ## Richard Wagner(1813-1883)
 
 Puro operista che vede nella sua produzione ben 13 opere.
-La sua produzione letteraria e saggistica supera enormemente in numero e varietà la sua produzione musicale.
-Si dedicò anche minimamente ai Lieder su testi non propri. Il loro materiale musicale fu poi in parte importato nel *Tristano*.
-
-Dalla tetralogia tutti i drammi sono costruiti su una rete di motivi conduttori, *Leitmotiven*, spesso molto brevi e affidati all'orchestra che ricorrono ogni volta in cui c'è un riferimento a quel personaggio, oggetto o affetto, sono un modo per costruire una trama musicale continua per tutta l'opera al di là della divisione in scena. Sono soggetti a modifiche e variazioni e a combinazioni varie.Wagner parla di melodia infinita: tutta l'opera e intessuta di questi motivi conduttori che la unifica controcorrente rispetto all'opera italiana fatta di numeri.
+La sua produzione letteraria e saggistica supera enormemente in numero e varietà la sua produzione musicale: all'età di 15 anni si cimentò a scrivere una tragedia, mentre la sua formazione musicale fu quasi essenzialmente da autodidatta.
+Si dedicò anche minimamente ai Lieder su testi non propri, il loro materiale musicale fu poi in parte importato nel *Tristano*.
 
 La sua impronta stilistica è contraddistinta dall'utilizzo di organici molto ampi con una grande varietà timbrica, a volte unica grazie alla presenza di Trombe basse e Tube wagneriane.
-L'assenza di concertati, dunque l'utilizzo di un singolo testo alla volta, mette in risalto una singola voce favorendone la comprensione da parte del pubblico, scelta criticata negativamente da Hanslick.
 
-Due tendenze fondamentali in Wagner sono:
-
-1. Alla prosa musicale, ossia all'irregolarità della struttura ( contrapposta a quella Rossiniana ).
-2. Ad un uso non vincolante della tonalità, ad esempio nel *Tristano*.
-
-Fondamentale è la *Tetralogia* chiamata *L'Anello del Nibelungo*  che narra miti e leggende nordiche:
+Fondamentale è la **Tetralogia** chiamata ***<u>L'Anello del Nibelungo</u>***  che narra miti e leggende nordiche:
 
 1. *L'Oro del Reno*
 2. *Valchiria*
 3. *Sigfrido*
 4. *Crepuscolo degli Dei*
+
+Dalla tetralogia tutti i drammi sono costruiti su una rete di motivi conduttori detti ***Leitmotiv***, spesso molto brevi e affidati all'orchestra, che ricorrono ogni volta in cui c'è un riferimento a quel personaggio, oggetto o affetto: sono un modo per costruire una trama musicale continua per tutta l'opera al di là della divisione in scene. Sono soggetti a modifiche e variazioni e a combinazioni varie.Wagner parla di ***melodia infinita***: tutta l'opera e intessuta di questi motivi conduttori che la unifica controcorrente rispetto all'opera italiana fatta di numeri che qui non rappresentato l'unità drammatica minima, portando così ad un abbandono delle forme chiuse.
+Sempre nell'ottica di non creare subordinarietà tra le arti rispetto al dramma, vi è assenza di concertati, dunque si utilizza un solo testo alla volta, mettendo così in risalto una singola voce e favorendone la comprensione da parte del pubblico; scelta criticata negativamente da Hanslick.
+
+Due sono le tendenze stilistiche fondamentali in Wagner:
+
+1. Alla prosa musicale, ossia all'irregolarità della struttura ( contrapposta a quella Rossiniana ).
+2. Ad un uso non vincolante della tonalità, ad esempio nel *Tristano*: i leitmotiv dovevano essere slegati da uno specifico contesto armonico in modo tale da potersi adattare ad ogni situazione e il cromatismo si pone come l'artificio musicale più apprezzato dal compositore per risolvere il dato problema.
 
 ### Cronologia
 
@@ -475,7 +475,7 @@ Fondamentale è la *Tetralogia* chiamata *L'Anello del Nibelungo*  che narra mit
 * 1833-1838: lavora come direttore in teatri di provincia e scrive due opere *Le Fate* e *Il Divieto di Amare*.
 * 1839-1841: vive a Parigi. Scrive *Rienzi*, opera molto vicina al Grand Operà con sfondo storico collettivo e soggetto privato, amata da Meyerbeer.
 * 1842-1849: vive a Dresda. Scrive *L'Olandese Volante*(1842), *Tannhauser*(1845), *Lohengrin*(1847) che sono opere prettamente romantiche dove le leggende sono preferite agli argomenti storici (vedi Weber).
-* 1849-1864: si trasferisce a Zurigo per aver preso parte ai moti rivoluzionari di Dresda. Scrive le opere teoriche *Opera d'Arte dell'Avvenire*(1849) e *Opera e Dramma*(1851). Inizia il *Tristano*, i testi della *Tetralogia* e la musica di metà di essa. Questi lavori inaugurano la produzione del **MusikDrama**, termine che il compositore usa per indicare la sua produzione ideale che descrive nelle opere teoriche.
+* 1849-1864: si trasferisce, grazie all'aiuto di Liszt, a Zurigo in seguito ad aver preso parte ai moti rivoluzionari di Dresda e al derivante mandato di arresto a suo carico che lo costrinsero ad una rocambolesca fuga. Scrive le opere teoriche *Opera d'Arte dell'Avvenire*(1849) e *Opera e Dramma*(1851). Inizia il *Tristano*, i testi della *Tetralogia* e la musica di metà di essa. Questi lavori inaugurano la produzione del **MusikDrama**, termine che il compositore usa per indicare la sua produzione ideale che descrive nelle opere teoriche.
 * 1864-1872: vive a Monaco e a Lucerna dove è finanziato da Re Ludovico II di Baviera. Scrive *Tristano*(1865), *Maestri Cantori di Norimberga*(1868), *Oro del Reno* e *Sigfrido*(1869), *Valchiria*(1870). Sposa Cosima Liszt nel 1870.
 * 1872-1873: vive a Bayreuth in Baviera ove fa costruire il teatro privato per le sue opere che introduce il buio in sala e la <u>buca orchestrale</u> chiamata golfo mistico. 
 * 1876: il teatro viene inaugurato con l'esecuzione dell'intera *Tetralogia*. Scrive *Il Crepuscolo degli Dei*.
@@ -483,12 +483,12 @@ Fondamentale è la *Tetralogia* chiamata *L'Anello del Nibelungo*  che narra mit
 
 ### Opere Teoriche
 
-In *Opera d'Arte dell'Avvenire*  e  *Opera e Dramma* Wagner evidenzia la necessità di unire, come nella Grecia antica, danza, musica e poesia, le tre arti sorelle che hanno cooperato nella tragedia classica.La musica è il mare che avvicina due continente: danza e poesia. Secondo Wagner questa unità è svanito dopo il mondo greco e il suo intento è quello di ricrearla.
+In *Opera d'Arte dell'Avvenire*  e  *Opera e Dramma* Wagner evidenzia la necessità di unire, come nella Grecia antica, danza, musica e poesia, le tre arti sorelle che hanno cooperato nella tragedia classica.La musica è il mare che avvicina due continente: danza e poesia. Secondo Wagner quest'unità è svanita dopo il mondo greco e il suo intento è quello di ricrearla.
 La nona di Beethoven è secondo lui il culmine massimo della musica strumentale e dopo di essa si deve puntare sul dramma musicale. Egli si proclama erede legittimo di Beethoven.
-L'opera per Wagner è l'unione apparente delle arti sorelle perché la musica è padrona mentre le altre due sono al suo servizio, nel balletto la danza prende lo scettro del comando, mentre nella musica di scena ( vedi Mendelssohn ) domina la poesia. Sono dunque tutti generi basati su interessi egoistici senza una fusione totale. Il dramma dell'avvenire, **Musikdrama**, si avrà quando "la regnante religione dell'egoismo sarà cacciata ed estirpata".
+L'opera per Wagner è l'unione apparente delle arti sorelle perché la musica è padrona mentre le altre due sono al suo servizio, nel balletto la danza prende lo scettro del comando, mentre nella musica di scena ( vedi Mendelssohn ) domina la poesia. Sono dunque tutti generi basati su interessi egoistici senza una fusione totale. Il dramma dell'avvenire, **Musikdrama**, si avrà quando "la regnante religione dell'egoismo sarà cacciata ed estirpata" e coniugata dunque in un'opera d'arte totale che ha lo scopo di raffigurare il "puramente umano", la vera natura umana priva di convenzioni e ascendenti storici o sociali.
 L'arte deve rappresentare il puramente umano, ossia tutto ciò che è proprio dell'uomo al di là dei condizionamenti esterni e convenzioni sociali ( vedi *Cromwell* di Victor Hugo ).
 L'autore afferma che l'unica direzione possibile è il **MusikDrama**, l'opera è morta. 
-Inoltre si palesa un disprezzo profondo per il semitismo in *Giudaismo in musica* descrivendo gli ebrei come uni popolo ossessionato dal denaro, colpevole del decadimento della società tedesca.
+Inoltre si palesa un disprezzo profondo per il semitismo in *Giudaismo in musica* descrivendo gli ebrei come un popolo ossessionato dal denaro, colpevole del decadimento della società tedesca.
 
 Nel 1869 Wagner scrive un trattato di direzione ove accusa pesantemente Brahms e i suoi seguaci i quali idolatravano Beethoven come un santo.
 
@@ -638,8 +638,8 @@ I tre teatri di Parigi fino a metà ottocento erano il teatro dell'operà, teatr
 
 ### Georges Bizet(1838-1875)
 
-Unico grande successo è *Carmen* la cui prima rappresentazione fu un fiasco, mentre solo poco dopo la sua morte esplose il fenomeno.
-Nasce con i recitativi parlati che il suo amico Guiraud mette poi in musica.
+Unico grande successo è *Carmen* la cui prima rappresentazione fu un fiasco, mentre solo poco dopo la sua morte esplose il fenomeno.L'opera narra un amore crudo, cinico, privo di senso morale che scandalizzò il pubblico borghese dell'epoca abituato al sentimentalismo e al lieto fine: infatti l'opera si conclude con un omicidio in scena.
+Nacque con recitativi parlati che il suo amico Guiraud mise poi in musica.
 Rappresenta una fusione di genere operistici:
 
 * Dialoghi parlati come nell'opera comique
@@ -647,8 +647,7 @@ Rappresenta una fusione di genere operistici:
 * Morte in scena come nell'opera verista
 * Storia d'amore come nell'opera lyrique
 
-L'opera piacque molto a Nietzsche che la elogia come un contro-altare rispetto al lavoro wagneriano con cui andrà in conflitto verso la fine della sua vita. 
-Causò uno scandalo in quando rappresentava una vicenda amorosa guidata non dai sentimenti, ma dall'istinto e dalle pulsioni, elementi che guidano le scelte di Carmen.
+L'opera piacque molto a Nietzsche che la elogiò come un contro-altare rispetto al lavoro wagneriano con cui andrà in conflitto verso la fine della sua vita. 
 
 # Impressionisti Francesi
 
