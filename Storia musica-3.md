@@ -46,7 +46,7 @@ La *<u>solita forma</u>* indica una struttura formale ideata da Rossini e può e
 2. Duetto. 
 3. Finale d'Atto.
 
-Struttura della solita forma in ordine:
+Struttura che forma un **<u>numero</u>**:
 
 * Scena: il vecchio recitativo, l'azione procede e si usano i versi sciolti. Stile di canto declamato.
 * Tempo d'attacco: <u>non presente nell'aria solistica</u>; prevede la contrapposizione tra due personaggi ; l'azione procede, ma si dà risalto all'aspetto musicale.
@@ -84,7 +84,7 @@ Questi ruoli si codificheranno nell'opera italiana susseguente.
 
 ## Vincenzo Bellini(1801-1835)
 
-Prova ad invertire la tendenza tipica degli operisti italiani dell'ottocento. Egli nasce da da una famigli di musicisti e completa la sua formazione musicale a Napoli. 
+Prova ad invertire la tendenza tipica degli operisti italiani dell'ottocento. Nato da una famiglia di musicisti, completa la sua formazione musicale a Napoli. 
 *Il Pirata(1827)*, rappresentata alla Scala, lo impone nel panorama musicale italiano.
 Trasferitosi a Milano, scrive solo 8 opere in questa città in 6 anni, dedicando più tempo e meditazione alla composizione a differenza dei suoi colleghi. Questo è possibile grazie agli altissimi onorari che gli è permesso chiedere vista la sua fama.
 Nell'ultima parte della sua vita soggiorna a Parigi e su invito di Rossini scrive per il teatro Italien, unico esempio di produzione francese dell'autore.
@@ -93,7 +93,8 @@ Non si dedica mai al genere buffo.
 
 La linea melodica di Bellini è molto lunga per durata.Essa è molto amata da Verdi e Wagner, il quale la trova imprevedibile. L'orchestra ha un ruolo marginale nei suoi lavori.
 
-Un **<u>numero</u>** è una struttura musicale che vede susseguirsi :
+*RIPASSO:*
+Un **<u>numero</u>** è una struttura musicale che vede susseguirsi :  
 
 * la scena(versi di endecasillabi e settenari) 
 * il tempo d'attacco(presente nel duetto, non presente nell'aria solistica)
@@ -113,10 +114,10 @@ La cavatina è l'aria che il personaggio fa per presentarsi all'entrata in scena
 
 ## Giuseppe Verdi(1813-1901)
 
-Si presenta all'ammissione non in giovane età e per pianoforte, dunque viene bocciato presso il conservatorio di Milano.
-L'esordio è a Milano nel 1839 con un'opera seria *Oberto Conte di San Bonifacio*, sostenuto dall'impresario Merelli.
-L'anno dopo è molto difficile a causa della morte della moglie e dei figli e al fiasco di una sua produzione *Il Giorno di Regno* (opera buffa) che lo spinge quasi ad abbandonare la carriera compositiva.
-Con il *Nabucco* (1842) la sua carriera trova nuovo impulso a Milano. **Piave** è librettista di molte opere, ma ne sono presenti molti altri tra i quali **Solera**: Verdi si interessa molto al libretto lavorandoci anch'esso attivamente. Si ispira anche a Byron e Schiller.
+Nato in una modestissima famiglia di osti, si presenta all'ammissione di pianoforte presso il Conservatorio di Milano già non in giovane età.
+L'esordio è a Milano nel 1839 con un'opera seria *Oberto, Conte di San Bonifacio*, sostenuto dall'impresario Merelli.
+L'anno dopo è molto difficile a causa della morte della moglie e dei figli oltre che dal fiasco di una sua produzione, *Il Giorno di Regno* (opera buffa), che lo spinge quasi ad abbandonare la carriera compositiva.
+Con il *Nabucco* (1842) la sua carriera trova nuovo impulso a Milano. **Piave** è il librettista di molte sue opere, ma ne sono presenti molti altri tra i quali **Solera**: Verdi si interessa molto al libretto lavorandoci anch'esso attivamente. Si ispira anche a Byron e Schiller.
 
 Si è soliti distinguere 3 periodi con progressivo allontanamento dalla struttura per numeri chiusi verso la suddivisione per unità drammatiche:
 
@@ -131,18 +132,18 @@ Si è soliti distinguere 3 periodi con progressivo allontanamento dalla struttur
 
 Un totale di 28 opere, 25 italiane e 3 francesi con maggioranza di opere serie.
 
-La trilogia popolare è formata da *Rigoletto('51)*, *Trovatore* e *Traviata('53)*.
+La trilogia popolare è formata da *Rigoletto('51)*, *Trovatore('53)* e *Traviata('53)*.
 
 Verdi viene associato al risorgimento Italiano ed è l'unico compositore toccato dall'unificazione nazionale anche se il coinvolgimento stesso dell'autore è stato molto ridotto. Ad esempio, il *Va Pensiero* contenuto nel *Nabucco* viene spesso associato al patriottismo, ma ciò avviene dopo l'unificazione nazionale per mano dell'editore Ricordi; inoltre l'opera è dedicata alla principessa d'Austria, destinazione molto lontana rispetto a quella comunemente pensata per l'opera.
 L'unica opera di Verdi ricollegabile all'attualità politica è *La Battaglia di Legnano* (nel coro *Viva Italia*) ove il nemico è Federico Barbarossa contro il quale si schierano i Lombardi.(Rappresentata a Roma durante la repubblica Mazziniana)
 
 "Viva V.E.R.D.I." fu urlato alla prima del *Un Ballo in Maschera* che non ha niente a che fare il movimento risorgimentale.
 
-Con l'applicazione della legge sui diritti d'autore negli anni 60 dell'ottocento un editore diviene una figura impresarie di spicco. Ricordi è editore che aveva stipulato un contratto con Verdi. A partire da questo cambiamento si vede la nascita del repertorio e della sua affermazione.
+Con l'applicazione della legge sui diritti d'autore negli anni 60 dell'ottocento un editore diviene una figura impresariale di spicco. Ricordi è l'editore che aveva stipulato un contratto con Verdi. A partire da questo cambiamento si ha la nascita del repertorio e della sua affermazione.
 
 ### Aria
 
-Nelle ultime non è più presente la rigida schematizzazione rossiniana, l'aria è più libera e strofica.
+Nelle ultime arie non è più presente la rigida e meccanica schematizzazione cantabile e cabaletta rossiniana abolendo quest'ultima e dando più spazio alle parti più libere dell'aria : tempo d'attacco e tempo di mezzo.
 Si pensa più alla continuità musicale che all'unità drammatica.
 La vocalità è realistica legata al personaggio.
 
