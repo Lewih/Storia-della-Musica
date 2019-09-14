@@ -316,9 +316,8 @@ Nell'area tedesca ci furono due partiti contrapposti in senso estetico:
 Wagner condannava la musica assoluta, ossia quella sciolta dalla parola, escludendo dall'accettabilità tutto ciò che non rientrava nel suo concetto di *Musikdrama*.
 Una posizione simile a quella wagneriana è quella di Liszt che teorizzò la possibilità di riavvicinare la musica alle altre arti con particolare predilezione alla letteratura, portando alla nascita del poema sinfonico.
 
-In opposizione troviamo Schumann, Hanslick e Brahms che si contrappongo alla così detta scuola neotedesca.
-**Hanslick** fu un docente di musicologia presso l'università di Vienna, un letterato, nel suo scritto *Il Bello Musicale* afferma che ogni arte ha la sua estetica e non deve essere confusa con quelle delle altre arti: egli vede la musica come una costruzione prettamente architettonica e tecnica; l'interesse non sta nell'effetto, ma nell'uso della tecnica compositiva.
-Egli non sopporta la logica di subordinare il materiale musicale alla logica di qualcosa di  esterno come ad esempio un programma: Schumann era infastidì perfino i titoli Beethoveniani di *Eroica* e *Pastorale*. 
+In opposizione troviamo Schumann, Hanslick e Brahms che si contrappongo alla così detta scuola ***neotedesca***.
+**Hanslick** fu un docente di musicologia presso l'università di Vienna, un letterato, il quale nel suo scritto *Il Bello Musicale* afferma che ogni arte ha la sua estetica e non deve essere confusa con quelle delle altre arti: egli vede la musica come una costruzione prettamente architettonica e tecnica; l'interesse non sta nell'effetto, ma nell'uso della tecnica compositiva.
 Hanslick sarà poi fondamento per la corrente *costruttivista* dell'estetica musicale del novecento sostenuta da Stravinsky e contrastata da Schönberg.
 
 ## Friederich Chopin(1810-1849)
@@ -492,37 +491,46 @@ Inoltre si palesa un disprezzo profondo per il semitismo in *Giudaismo in musica
 
 Nel 1869 Wagner scrive un trattato di direzione ove accusa pesantemente Brahms e i suoi seguaci i quali idolatravano Beethoven come un santo.
 
+# La Nuova Fioritura della sinfonia
+
+Negli anni '70-'80 dell'ottocento si assistette ad una seconda fioritura della sinfonia grazie ad autori quali Bruckner, Brahms e successivamente da Dvorak, Sibelius, Borodin, Franck... le cui sinfonie sono spesso contaminate da elementi programmatici o strutture cicliche.
+
+## Anton Bruckner(1824-1896)
+
+In Bruckner non ci sono riferimenti extra musicali, l'intento era quello di scrivere musica assoluta, non musica a programma.
+Bruckner era molto legato a Wagner (Il maestro di tutti i maestri) a cui dedicò la 3 sinfonia, mentre un forte ascendente avevano sul personaggio anche Beethoven e Schubert del quale riprende il riutilizzo di temi con passaggio dal minore al maggiore o viceversa.
+Hanslick attaccò molto duramente le sinfonie di Bruckner, definendole, quasi per assurdo, *wagneriane*, il quale pur essendo appoggiato dall'imperatore Francesco Giuseppe si guadagnò l'ostilità del pubblico borghese.
+Le sue 9 sinfonie numerate( e le due non numerate), che presentano più versioni, seguono tutte lo schema tradizionale in 4 movimenti e non presentano elemento vocale, né programma, ma hanno la caratteristica comune a Wagner dei Motivi e del cromatismo, oltre che di alcuni strumenti particolari quali le tube wagneriane. Le tube wagneriane sono ottoni conici che permettono di avere determinati timbri su registri altrimenti irraggiungibili con strumenti tradizionali: Bruckner le usa nella settima, ottava e nona  sinfonia.
+Il tremolo d'archi è una costante negli incipit delle sinfonie di Bruckner che fu anche influenzato dalla sua formazione organistica e, quindi, dalla polifonia rinascimentale e barocca.
+
+Si dedica alla stesura di 3 messe, molti mottetti e un Te deum.
+
+Fu Dahlhaus a difenderlo dalla critica denigratoria subita in passato, vittima delle contrapposte correnti di pensiero che scindevano il mondo romantico.
+
 ## Johannes Brahms(1833-1897)
 
-Scoperto da Schumann nel saggio in *Vie Nuove*(1853) ed elogiato con toni profetici come il nuovo messia, figlio d'arte studia pianoforte e da giovane conosce Hanslick e Liszt.
-Hanslick individuò in lui il più grande compositore vivente.
+Scoperto da Schumann nel saggio *Vie Nuove*(1853) ed elogiato con toni profetici come il nuovo messia, figlio d'arte studia pianoforte e da giovane conobbe Liszt e Hanslick, che individuò in lui il più grande compositore vivente.
 La prima sinfonia si fa attendere sino al 1876. Ottiene la fama internazionale nel 1872 con l'esecuzione del *Requiem Tedesco*, una sorta di meditazione laica sulla morte con testi in tedesco messi insieme dall'autore stesso.
-Grande appassionato di musica barocca che proponeva nei suoi concerti pianistici.
+Fu un grande appassionato di musica barocca che proponeva nei suoi concerti pianistici.
 Abbiamo 203 Lieder, alcuni dei quali corali: infatti Brahms fu direttore di coro prima di essere compositore di fama.
 
 Per pianoforte ha scritto ballate e Intermezzi, alcuni dei quali molo famosi.
 Si dedica alla musica da camera in opposizione alla concezione corale di Liszt e Wagner.
 Per orchestra abbiamo quattro sinfonie, un concerto per violino e due per pianoforte.
 
-Ha la tendenza a far perdere l'articolazione interna delle varie parti della forma sonata: nella 4° sinfonia lo sviluppo non si allontana dalla tonalità d'impianto e neanche dalle idee tematiche già esposte. Lo sviluppo non è dunque connotata da tratti radicalmente diversi rispetto all'esposizione. L'autore preferiva la tecnica della variazione con riferimenti al classicismo viennese e a Bach senza però scadere nella maniera dei predecessori: lo stesso Schönberg lo etichetta come un progressista nel saggio *Brahms il Progressivo*(1933). L'utilizzo dell'armonia e delle forme tradizionali è dunque innovatore.
-
-L'ultimo movimento della 4° è basata sulla ciaccona o passacaglia ispirato dall'8° Ordine di Couperin, opera di cui preparò l'edizione critica mostrando vivo interesse per il barocco.
-Nell'ultimo movimento della prima sinfonia è presente una allusione strumentale all'inno alla gioia dimostrando che l'elemento vocale non è essenziale opponendosi allo stile Wagneriano.
-
 Nel 1860 scrive un articolo di protesta contro la scuola neotedesca guidata da Brendel che con la sua rivista *Nuova Rivista Musicale* sosteneva Liszt e Wagner; purtroppo questo articolo fu ridicolizzato dall'opposizione. Da qui in poi l'autore preferì far parlare la musica.
 
-## Anton Bruckner(1824-1896)
+### 4° Sinfonia
 
-In Bruckner non ci sono riferimenti extra musicali, l'intento era quello di scrivere musica assoluta, non musica a programma.
-Bruckner era molto legato a Wagner (Il maestro di tutti i maestri) a cui dedicò la 3 sinfonia. Forte ascendente avevano sul personaggio anche Beethoven e Schubert del quale riprende il riutilizzo di temi con passaggio dal minore al maggiore o viceversa.
-Hanslick attaccò molto duramente, definendole wagneriane, le sinfonie di Bruckner che pur essendo appoggiato dall'imperatore Francesco Giuseppe si guadagnò l'ostilità del pubblico borghese.
-Le sue 9 sinfonie numerate(due non sono numerate), che presentano più versioni, seguono tutte lo schema tradizionale in 4 movimenti e non presentano elemento vocale, né programma, ma hanno la caratteristica comune a Wagner è la presenza dei Motivi e del cromatismo, oltre che di alcuni strumenti particolari.
-Le tube wagneriane sono ottoni conici che permettono di avere determinati timbri su registri altrimenti irraggiungibili con strumenti tradizionali: Bruckner le usa nella settima, ottava e nona  sinfonia.
-Il tremolo d'archi è una costante negli incipit delle sinfonie di Bruckner che fu anche influenzato dalla sua formazione organistica e, quindi, dalla polifonia rinascimentale e barocca.
+L'opera è composta dai canonici 4 movimenti.
 
-Si dedica alla stesura di 3 messe, molti mottetti e un Te deum.
+L'autore ha la tendenza a far perdere l'articolazione interna delle varie parti della forma sonata attenuando le differenze tra le sezioni: nel primo movimento lo sviluppo non si allontana dalla tonalità d'impianto e neanche dalle idee tematiche già esposte in quanto i processi tipici della <u>rielaborazione tematica</u> vengono adottati anche in sezioni diverse dallo sviluppo.
+Lo sviluppo non è dunque connotata da tratti radicalmente diversi rispetto all'esposizione.
+L'autore preferiva la tecnica della variazione con riferimenti al classicismo viennese e a Bach senza però scadere nella maniera dei predecessori: lo stesso Schönberg lo etichetta come un progressista nel saggio *Brahms il Progressivo*(1933). L'utilizzo dell'armonia e delle forme tradizionali è dunque innovatore. Un procedimento tipicamente Brahmsiano è l' ***autoaccompagnamento***, nel quale il basso procede per terze discendenti dimostrando che sia melodia, basata su terze, che accompagnamento hanno origine comune: Carl Dahlhaus afferma che in questo caso "non c'è una nota che non sia tematica".
+Questa tendenza ad eliminare i contrasti tra le varie sezioni della forma sonata è in linea con l'idea di unificare il materiale musicale creando un'opera unica tipica del romanticismo 
 
-Fu Dahlhaus a difenderlo dalla critica denigratoria subita in passato, vittima delle correnti contrapposte.
+L'ultimo movimento della 4° è basata sulla ciaccona o passacaglia ispirato dall'8° Ordine di Couperin, opera di cui preparò l'edizione critica mostrando vivo interesse per il barocco. Questo tempo è l'apologia della variazione dove un tema di otto misure è seguito da 30 variazioni ed una coda.
+Nell'ultimo movimento della prima sinfonia è presente una allusione strumentale all'inno alla gioia dimostrando che l'elemento vocale non è essenziale opponendosi allo stile Wagneriano.
 
 ## Gustav Mahler(1860-1911)
 
@@ -533,7 +541,7 @@ Nella quarta sinfonia l'ultimo movimento è un vero e proprio Lied accompagnato 
 Dedica una raccolto di canti sinfonici ai suoi fratelli morti da bambini *Canti di Bambini Morti*.
 In vita fu più apprezzato come direttore che come compositore in quanto la sua musica era troppo ricca di effetti e rivoluzionaria.
 
-Secondo Mahler la sinfonia deve essere concepita come Mondo che comprende in sé tutta la contraddittorietà del reale: infatti vi inserisci elementi anche triviali e popolari che sino a quel momento non erano stati accolti nel genere con filastrocche infantili, danze folcloristiche.
+Secondo Mahler la sinfonia deve essere concepita come Mondo che comprende in sé tutta la contraddittorietà del reale: infatti vi inserisci elementi anche triviali e popolari che sino a quel momento non erano stati accolti nel genere come filastrocche infantili e danze folcloristiche.
 Su nove sinfonie, ben cinque hanno dei testi nei vari movimenti. Questi sono molto eterogenei che includono versi del Faust, di Nietzsche  e religiosi.
 Gli organici sono molti ampi senza però presentare una grande massa sonora, messa in secondo piano rispetto alla ricerca timbrica che risulta essere il parametro più importante.
 Mahler introduce la tonalità progressiva, ossia quando un movimento inizia in una tonalità e finisce in un'altra anche molto distante.
@@ -541,23 +549,25 @@ Le indicazioni agoniche sono molto complesse, in tedesco, e con varie sfumature 
 
 ## Richard Strauss(1864-1949)
 
-Strauss si è imposto grazie al genere dell'opera e del poema sinfonico.
-Si fa sempre riferimento a materiale extra-musicale.
+Strauss si è imposto grazie al genere dell'opera e del poema sinfonico, in totale controtendenza rispetto ai suoi contemporanei.
+Si fa sempre riferimento a materiale extra-musicale, anche se si respinge l'idea di una musica costruita esclusivamente su di esso.
 
-* 1883 - 1889 direttore d'orchestra di successo
+* 1883 - 1889 direttore d'orchestra di successo, attività che perdurò per tutta la vita.
 * 1889-1898 scrive sette poemi sinfonici e due sinfonie a programma : *La sinfonia Domestica* e *La Sinfonia delle Alpi*.
 * 1898-1918 scrive 15 opere, di cui cinque di grande successo tra cui *Salome* . Dopo avere raggiunto i limiti della tonalità con *Elektra*(1909) fa un sorta di marcia indietro, l'opera successiva  *Cavaliere della Rosa* in tre atti è armonicamente più tradizionale, in contro tendenza rispetto allo sperimentalismo iniziale tipico dell'autore.
 * Scrive anche 167 Lied per pianoforte o orchestra.Nel 1948 scrive *Quattro Ultimi Lieder*, molto simili a Lied di fine ottocento.
 
 Nei poemi sinfonici dell'autore si possono identificare due filoni:
 
-1. Descrittivo: come ad esempio nel *Don Chisciotte* in cui è presente una storia e una ambientazione.
-2. Filosofico: come in *Così Parlò Zarathustra*, non vi sono paesaggi e vicende.
+1. Descrittivo: come ad esempio nel poema sinfonico *Don Chisciotte* in cui è presente una storia e una ambientazione.
+2. Filosofico: come nel poema sinfonico *Così Parlò Zarathustra*; non vi sono paesaggi e vicende.
 
 Spesso nei suoi lavori possiamo trovare elementi autobiografici come in *Sinfonia Domestica*.
 Il timbro e la sua modificazione crea la *Melodia di Timbri* generando il senso musicale: dialettica di timbri, non di altezze.
 
-### Salome e Elektra
+Uno dei suoi ultimi capolavori è *Metamorphosen*, studio per 23 strumenti ad arco, 1945.
+
+### *Salome* ed *Elektra*
 
 Sono entrambe opere in un unico atto con protagonisti femminili e **literature opere**, cioè i libretti sono dei testi letterari preesistenti utilizzati di peso: Salome è il testo tradotto dell'omonimo dramma di Wilde, mentre Elektra prende il testo da un'opera di ***Hoffmanstahl*** che diverrà in futuro in sul librettista di fiducia già con *Il Cavaliere della Rosa*.
 Le due opere si servono di una tonalità che spingono fino al limite rasentando l'atonalità con grandi quantità di accordi vaganti, giustapposti senza legami.
