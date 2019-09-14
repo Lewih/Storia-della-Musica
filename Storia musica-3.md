@@ -578,46 +578,51 @@ Strauss utilizza i motivi conduttori come in Wagner, ma qui sono usati in modo p
 Non esiste una istituzione di riferimento e una linea di affiliazione.
 Le tre aree culturali centrali in Europa sono Italia, Francia e Tedesca. L'europeizzazione della Russia inizia con la fondazione di San Pietroburgo.
 
-*Ivan Susanin, Ilya Bogatyr* sono prime opere italiane che fanno uso della lingua russa create per il popolo russo scritte da ***Catterino Cavos***, prodotto della europeizzazione forzata da parte di Pietro il Grande, inizialmente si ragiona in termini di importazione.
+*Ivan Susanin* e *Ilya Bogatyr* sono le prime opere italiane che fanno uso della lingua russa, create appositamente per il popolo russo da ***Catterino Cavos***, prodotto della europeizzazione forzata da parte di Pietro il Grande.
 Si creano due filoni operistici: uno storico rappresentato in prima battuta dall'Ivan, il secondo favolistico come nel Bogatyr.
 *Una Vita Per lo Zar* vede sempre Ivan Susanin come protagonista, scritta da Glinka.
 
-Il primo autore nell'opera del quale si profila un emergere di caratteristiche musicale russe è ***Glinka Mikhail***.
-In gran parte autodidatta per mancanza di una cultura musicale nazionale, completa i suoi studi in Italia a Milano, lo stesso autodidattismo è una caratteristica fondamentale della scuola musicale russa. La scuola russa si caratterizza da una strumentazione/orchestrazione brillante se non geniale con grande attenzione al parametro timbrico.
+Il primo autore nell'opera del quale si profila un emergere di caratteristiche musicale russe è ***Glinka Mikhail***(1804-1857), benché la sua formazione sia stata occidentale.
+In gran parte autodidatta per mancanza di una cultura musicale nazionale, completa i suoi studi in Italia a Milano: lo stesso autodidattismo è una caratteristica fondamentale della scuola musicale russa. La scuola russa si caratterizza da una strumentazione/orchestrazione brillante se non geniale con grande attenzione al parametro timbrico.
+*Una Vita per lo Zar*(1836) di Glinka è considerata la prima vera opera nazionale russa, pur debitrice nei confronti della tradizione europea.
 Tipico della musica russa è il rifiuto per lo sviluppo del tema sulla scia della tradizione folkrorica sia che il tema sia originale, straniero o tradizionale.
 Il variolages è molto usato nella musica di scuola russa. 
-Il sistema tonale nella scuola russa convive col sistema modale della chiesa ortodossa e con la libertà del folklore russo con presenza di scale inusuete.
-Il primo uso di una scala per toni interi nel mondo occidentale è presente nella ouverture di *Ruslan e Ludmilla* di Glinka.
+Il sistema tonale nella scuola russa convive col sistema modale della chiesa ortodossa e con la libertà del folklore russo con presenza di scale e strumenti inusueti: il primo uso di una scala per toni interi nel mondo occidentale è presente nella ouverture di *Ruslan e Ludmilla* di Glinka.
 
 Altro capostipite è Dargobinsky con il *Convitato di Pietra*.
 
 *Il gruppo dei cinque* supportati dal famoso critico Stasov sono:
 
-* Mussorgsky 
-* Korsakov
-* Borodin
-* Balakirev
-* Kjuj
+* Modest Mussorgsky 
+* Nikolaj Rimskij-Korsakov
+* Aleksandr Borodin
+* Miji Balakirev
+* Tzezar' Cui
 
 Tutti per sostentarsi avevano lavori esterni al mondo musicale. Presentano un tratto orientalista, sono slavofili e volevano differenziarsi dalla tradizione europea.
 Contrapposti ai 5 c'erano gli occidentalisti come Tchaikovsky e Rubinstein. Il primo era contrario alla musica dilettantistica e favorevole alla formazione tradizionale.
-Nella musica russa è spesso preferita la musica a programma, l'elemento extra-musicale, e è assente la rielaborazione tematica.
+Nella musica russa è spesso preferita la musica a programma, l'elemento extra-musicale ed è assente la rielaborazione tematica, avvicinandosi così in certa misura ai neotedeschi.
 
 ## Modest Mussorgsky(1839-1881)
 
 Era figlio di un proprietario terriero danneggiato dall'abolizione della servitù della gleba, cambiamento supportato dall'artista che si sente dalla parte dei contadini liberati.
 L'artista ero contrario all'occidentalizzazione ritenuta inutile per il futuro della nazione vista come ostaggio storico dell'Europa.
-Mussorgsky vede nell'arte uno strumento di comunicazione strettamente correlato al linguaggio: il linguaggio umano è regolato da severe leggi musicali.
-
-Capolavoro è l'opera *Boris Godunov*, alla quale viene aggiunto l'atto polacco e pezzi chiusi dopo il rifiuto dell'opera da parte del giardino imperiale.
-E' un opera che non si serve di un libretto apposito, ma parte da un brano in prosa rielaborato. La fonte in questo caso è una piece teatrale di Pushkin ambientata nel cinquecento ove si alternano parti in prosa con parti in poesia.
-La vicenda è inquadrata storicamente nel periodo di crisi dopo la morte dello zar Ivan il Terribile.
-Boris è il cognato dello Zar e pur non essendo di sangue reale pretende il trono: infatti uccide Dimitri, un bambino destino all'ascesa regale, divenendo Zar.
-Un monaco inizia a sostenere dopo anni di essere il fanciullo sopravvissuto che con l'appoggio dei polacchi riesce a salire al trono grazie alla morte per senso di colpa di Boris.
-Il popolo è oggetto e non soggetto della storia, passivo e dominato.
-Il canto è quasi esclusivamente sillabico.
+Mussorgsky vede nell'arte uno strumento di comunicazione strettamente correlato al linguaggio. Il linguaggio umano è regolato da severe leggi musicali e l'arte è un mezzo di comunicazione, non un fine.
+Secondo il musicologo Dahlhaus con Mussorgsky si può veramente parlare di **realismo musicale**: infatti l'artista voleva esporre musicalmente la prosa della vita quotidiana in prosa musicale.
 
 Korsakov fa del lavoro di Modest rielaborazioni meno dure come d'altronde anche Ravel.
+
+### *Boris Godunov*
+
+Capolavoro è l'opera *Boris Godunov*, alla quale viene aggiunto l'atto polacco e pezzi chiusi dopo il rifiuto dell'opera da parte del giardino imperiale.
+E' un opera che non si serve di un libretto poetico apposito, ma parte da un brano in prosa rielaborato: questo particolare genere operistico prende il nome di **opéra dialogué**. La fonte in questo caso è una piece teatrale di **Pushkin** ambientata nel cinquecento, nel periodo di crisi dopo la morte dello zar Ivan il Terribile. Sull'esempio di Pushkin, il libretto alterna prosa e versi, dualità ben sfruttata dal compositore: nelle zone in versi si adopera un particolare modello ritmico anacrusi che dona un senso di esaltazione; nella prosa ci si sforza di avvicinare il cantato all'inflessione della lingua parlata. Per queste motivazioni il canto è quasi esclusivamente sillabico, **declamato**.
+Si trovano per la prima volta all'interno di un'opera generi provenienti dal folclore russo. Tutto ciò porta con sé un ricco bagaglio di stilemi: l'uso di scale modali; ritmi additivi.
+Il popolo russo è oggetto e non soggetto della storia, dominato o strumentalizzato, e nell'opera viene incarnato dai cori, grandi protagonisti della scena, che rompono la tradizionale impermeabilità tra parti solistiche e corali.
+Mussorgsky mutua l'uso dei **leitmotive** da Berlioz e Glinka creando fattori di richiamo all'interno dell'opera.
+
+Boris è il cognato dello Zar e pur non essendo di sangue reale pretende il trono: infatti uccide Dimitri, un bambino destino all'ascesa regale, divenendo Zar.
+Un monaco inizia a sostenere dopo anni di essere il fanciullo redivivo che con l'appoggio dei polacchi riesce a salire al trono grazie alla morte per senso di colpa di Boris.
+L'opera si chiude con un finale-non finale che vede un il monaco guidato dalla folla prossimo all'ascesa al trono: la storia era nota alla popolazione russa che non si stupì dell'incompiutezza della trama.
 
 # Opera di fine '800
 
