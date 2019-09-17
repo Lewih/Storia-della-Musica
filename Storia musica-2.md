@@ -1,6 +1,8 @@
+# Appunti di Storia della Musica 2
+
 Michele Pugno-2018-Storia2
 
-Libro: Carrozzo-Cimagalli
+Libro di supporto: Carrozzo-Cimagalli
 
 # Monteverdi
 

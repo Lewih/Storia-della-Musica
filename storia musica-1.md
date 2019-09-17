@@ -1,6 +1,8 @@
+# Appunti di Storia della Musica 1
+
 Michele Pugno-2018-Storia1
 
-Libro: Carrozzo-Cimagalli
+Libro di supporto: Carrozzo-Cimagalli
 
 # Musica Greca
 

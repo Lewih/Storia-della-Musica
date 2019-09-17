@@ -1,6 +1,8 @@
+# Appunti di Storia della Musica 3
+
 Michele Pugno/Giulio Civillini-2018-Storia3
 
-Libro: Carrozzo-Cimagalli
+Libro di supporto: Carrozzo-Cimagalli
 
 # L'Opera dell'Ottocento
 
@@ -422,9 +424,8 @@ Produzione pianistica:
 Scrive due sinfonie a programma:
 
 * *Faust* 
-1. *Faust* 30 minuti
-  
-2. *Gretchen* 22 minuti
+  1. Faust* 30 minuti
+  2. *Gretchen* 22 minuti
   3. *Mephistopheles* 23 minuti con l'introduzione di un testo
   
 * *Dante*
@@ -606,7 +607,7 @@ Nella musica russa è spesso preferita la musica a programma, l'elemento extra-m
 ## Modest Mussorgsky(1839-1881)
 
 Era figlio di un proprietario terriero danneggiato dall'abolizione della servitù della gleba, cambiamento supportato dall'artista che si sente dalla parte dei contadini liberati.
-L'artista ero contrario all'occidentalizzazione ritenuta inutile per il futuro della nazione vista come ostaggio storico dell'Europa.
+L'artista era contrario all'occidentalizzazione, ritenuta inutile per il futuro della nazione vista come ostaggio storico dell'Europa.
 Mussorgsky vede nell'arte uno strumento di comunicazione strettamente correlato al linguaggio. Il linguaggio umano è regolato da severe leggi musicali e l'arte è un mezzo di comunicazione, non un fine.
 Secondo il musicologo Dahlhaus con Mussorgsky si può veramente parlare di **realismo musicale**: infatti l'artista voleva esporre musicalmente la prosa della vita quotidiana in prosa musicale.
 
@@ -665,6 +666,8 @@ Rappresenta una fusione di genere operistici:
 L'opera piacque molto a Nietzsche che la elogiò come un contro-altare rispetto al lavoro wagneriano con cui andrà in conflitto verso la fine della sua vita. 
 
 # Impressionisti Francesi
+
+`E' un abbozzo in vista di storia del '900`
 
 Dal 1871 ritorna in Francia un certo interesse per la musica strumentale e viene fondata la "Società Nazionale della Musica" con lo scopo di colmare il divario con la tradizione tedesca da parte di Saint-San e Franck. La rinascita della musica strumentale si deve anche a Fauré e D'Indy.
 
