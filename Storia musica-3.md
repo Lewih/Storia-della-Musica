@@ -22,7 +22,7 @@ All'età di 37 interrompe la sua carriera.
 
 ### Gran Operà
 
- Si sviluppa sotto il regno di Luigi Filippo (1830-1848) e deriva dalla *Tragedie Lyrique* codificata da Lully che ha avuto un ruolo marginale fuori dalla Francia. Uno dei primi esempi di *Grand Operà* è *La muta di Portici(1828)* di Daniel-François Auber con un ruolo di rilievo affidato alla danza.
+Si sviluppa sotto il regno di Luigi Filippo (1830-1848) e deriva dalla *Tragedie Lyrique* codificata da Lully che ha avuto un ruolo marginale fuori dalla Francia. Uno dei primi esempi di *Grand Operà* è *La muta di Portici(1828)* di Daniel-François Auber con un ruolo di rilievo affidato alla danza.
 Una delle opere più famose di questo genere è *Gli Ugonotti(1836)* di Meyerbeer che è esempio di vicenda privata(amore proibito) su sfondo storico(guerre di religione del '500).
 
 Caratteristiche :

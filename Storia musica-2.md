@@ -377,7 +377,7 @@ Esistono tre modelli:
 
 # Grandi Compositori Barocchi
 
-## Antonio Vivaldi
+## Antonio Vivaldi(1678-1741)
 
 Musicista veneziano del settecento, classe 1678, soprannominato il *Prete Rosso* per via dei capelli rossi e perché aveva preso gli ordini minori senza portare avanti il sacerdozio a causa della salute cagionevole e a vari pettegolezzi: infatti insegnava nell'**Ospedale della pietà** alle "putte", le fanciulle, viola e violino. 
 
@@ -420,9 +420,9 @@ I titoli della raccolte sono sempre molto fantasiosi e ricercati:
 * **Poema Sinfonico**: il compositore si propone di mettere in musica un soggetto, ovvero un qualsiasi elemento non musicale e lo fa senza essere vincolata da una forma fissa, è dunque in piena libertà.
   Questo genere nasce e prolifera nella seconda metà dell'ottocento.
 
-## J. Sebastian Bach
+## J. Sebastian Bach(1685-1750)
 
-Bach, 1685 - 1750 , fu uno dei principali compositori del tardo barocco. Personalità atipica, dimostra interesse per il passato e per tutta la vita compirà studi musicali, filosofici e matematici approfonditi. Non si spostò molto dalla sua zona di nascita, ma questo non gli impedì di appropriarsi di tutta la cultura musicale dai fiamminghi in poi. Le sue composizioni hanno un carattere quasi scientifico.
+Bach fu uno dei principali compositori del tardo barocco. Personalità atipica, dimostra interesse per il passato e per tutta la vita compirà studi musicali, filosofici e matematici approfonditi. Non si spostò molto dalla sua zona di nascita, ma questo non gli impedì di appropriarsi di tutta la cultura musicale dai fiamminghi in poi. Le sue composizioni hanno un carattere quasi scientifico.
 
 ### Riscoperta
 
@@ -535,7 +535,7 @@ Grandiosa composizione con uso massiccio del coro e con 6 arie solistiche e 3 du
 
 Organico: orchestra con archi e fiati, coro, organo, solisti.
 
-## Georg Friedrich Händel
+## Georg Friedrich Händel(1685-1759)
 
 Nacque ad <u>Halle</u> nel 1685 più o meno nella stessa zona geografica di Bach, a parte questo i compositori sono molto diversi fra loro, quasi opposti: infatti mentre Bach era legato al passato, Handel era gettato nella contemporaneità e nel teatro, inoltre era un viaggiatore apprezzato in tutta Europa che visitò Italia e Inghilterra. Il padre lo indirizzò verso gli studi universitari di giurisprudenza, ma ben presto il giovane si dedicò alla musica. Handel scrisse sonate, concerti grossi, suites, cantate ecc.ecc.
 
@@ -646,7 +646,7 @@ Dalla seconda metà del settecento nascono in Europa le varie scuole sinfoniche 
 2. **Scuola di Wagenseil a Vienna**.
 3. **Scuola di Mannheim**: orchestra numerosa e preparata con grande espressività dinamica, inusuale all'epoca, grazie all'ausilio di strumenti tecnicamente di altissimo livello. Grandi virtuosismi solistici e espressività. L'autore più significativo è Stamitz.
 
-## Franz Joseph Hayden
+## Franz Joseph Hayden(1732-1809)
 
 Hayden, 1732- Rohrau, Austria/1809-Vienna.
 Nella sua lunga vita attraversò le fasi dal barocco al primo romanticismo e ridefinì con un nuovo linguaggio i generi strumentali del quartetto d'archi, della sonata e della sinfonia.
@@ -698,7 +698,7 @@ Scrive in totale 26 messe in uno stile rigido e severo basato sul contrappunto a
 
 
 
-## Wolfgang Amadeus Mozart
+## Wolfgang Amadeus Mozart(1756-1791)
 
 E' imprescindibile la lettura del libro, capitolo 30.
 
@@ -805,7 +805,7 @@ Il *Requiem* è l'ultima composizione rimasta incompiuta e poi finita da Süssma
 * A sezioni contrappuntistiche alla Palestina si alternano parti più omoritmiche.
 * Le parti corali si rifanno molto al *Messiah* di Handel.
 
-## Ludwig Van Beethoven
+## Ludwig Van Beethoven(1770-1827)
 
 Beethoven(Bonn 1770, Vienna 1827) è il terzo grande compositore legato a Vienna.
 La sua adolescenza è molto travagliata a causa del padre alcolista e violento che cercò, avendo intuito le capacità del figlio, di farlo assurgere al ruolo bambino prodigio, addirittura falsificando il certificato di nascita e spacciandolo di due anni più giovane, inganno che Beethoven scoprì solo da giovane adulto. La sua formazione musicale iniziò come strumentista con il padre, cantore presso la cappella di corte, e i suoi colleghi .Con la morte della madre nel 1777 e avendo successivamente assunto il ruolo di capofamiglia nel 1789, essendo il padre non più in grado di badare ai due figli minori, Beethoven ottenne parte dello stipendio del padre e grande appoggio presso i nobili e intellettuali di Bonn, in particolare presso il conte Waldstein.
